@@ -1,5 +1,9 @@
 "It ain't much, but it's honest work."
 
+11 May 2021
+
+100% reimbursement leads the vote at Rari, based on Discord discussion seems like the team is leaning toward liquidity mining on Uniswap V3 to establish sufficient liquidity to support airdrop. There is enough liquidity in pool2 that can be shifted to support a certain price band in v3.
+
 10 May 2021
 
 Notes on Rari Compensation Plans
