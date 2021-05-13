@@ -1,5 +1,9 @@
 "It ain't much, but it's honest work."
 
+12 May 2021
+
+Liquid governance has been on my mind. For projects like Rari or XToken, how can RGT or XTK holders express more continuous/nuanced opinions about risk within their system? Something like the CRV guage system or other continuous market parameter system would be ideal. XTK backing and collecting revenue from xSNXa would be on the line for any loss of funds in xSNXa through slashing or other mechanism. In Rari, this could be done to let RGT "vote" in a continuous and organic way to allocate the yield aggregator among the Fuse pools.
+
 11 May 2021
 
 100% reimbursement leads the vote at Rari, based on Discord discussion seems like the team is leaning toward liquidity mining on Uniswap V3 to establish sufficient liquidity to support airdrop. There is enough liquidity in pool2 that can be shifted to support a certain price band in v3.
