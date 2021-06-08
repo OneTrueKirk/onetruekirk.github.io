@@ -1,4 +1,6 @@
-"It ain't much, but it's honest work."
+8 June 2021
+
+Started experimenting with [`scaffold-eth`](https://github.com/austintgriffith/scaffold-eth). My goal is to create a token-permissioned web3 blog, and explore decentralized hosting options along the way. V1 will simply hide the blog's content for users who don't have a sufficient balance of the $KIRK token, but in the longer run it would be fun to add other features like comments based on token signature (snapshot).
 
 12 May 2021
 
