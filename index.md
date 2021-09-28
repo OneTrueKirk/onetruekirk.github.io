@@ -4,6 +4,7 @@ Building a [stablecoin project](https://github.com/OneTrueKirk/fri), join us in 
 **Published articles by topic**
 
 *Stablecoins*
+- [Would you like FRIes with that? stablecoin niches and supply sources](https://medium.com/@kirkhutchison/would-you-like-fries-with-that-2595e15190c6). An overview of the collateral types we want to support with FRI.
 - [Introducing the Rari Dollar](https://medium.com/@kirkhutchison/introducing-the-rari-dollar-ea6fd4e97c54). We're not using this name anymore, open to good suggestions. In the meantime our working title is FRI, the Funding Rate Index.
 - [Let a Thousand Stablecoins Bloom](https://medium.com/@kirkhutchison/let-a-thousand-stablecoins-bloom-ae01aaf15a73). Why stablecoin diversity is a good thing.
 
