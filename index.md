@@ -1,5 +1,5 @@
 I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk). I read and write about cryptoeconomics, decentralized finance, and Ethereum.
-Building a stablecoin project, join us in the [Rari Capital Discord](https://discord.com/invite/tmPU6tG7Mn)'s `#fuse-backed-stablecoin` channel.
+Building a [stablecoin project](https://github.com/OneTrueKirk/fri), join us in the [Rari Capital Discord](https://discord.com/invite/tmPU6tG7Mn)'s `#fuse-backed-stablecoin` channel.
 
 **Published articles by topic**
 
