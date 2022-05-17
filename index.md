@@ -1,13 +1,5 @@
-I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk). I read and write about cryptoeconomics, decentralized finance, and Ethereum.
-Building a [stablecoin project](https://github.com/OneTrueKirk/fri), join us in the [Rari Capital Discord](https://discord.com/invite/tmPU6tG7Mn)'s `#fuse-backed-stablecoin` channel.
+I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast and garden appreciator.
+Building [Volt Protocol](https://www.voltprotocol.io).
+Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
-**Published articles by topic**
-
-*Stablecoins*
-- [Would you like FRIes with that? stablecoin niches and supply sources](https://medium.com/@kirkhutchison/would-you-like-fries-with-that-2595e15190c6). An overview of the collateral types we want to support with FRI.
-- [Introducing the Rari Dollar](https://medium.com/@kirkhutchison/introducing-the-rari-dollar-ea6fd4e97c54). We're not using this name anymore, open to good suggestions. In the meantime our working title is FRI, the Funding Rate Index.
-- [Let a Thousand Stablecoins Bloom](https://medium.com/@kirkhutchison/let-a-thousand-stablecoins-bloom-ae01aaf15a73). Why stablecoin diversity is a good thing.
-
-*Ethereum Name Service*
-- [ENS and the Squatting Problem](https://medium.com/@kirkhutchison/ens-and-the-squatting-problem-da5d273501b1). Why ENS needs demand sensitive pricing.
-- [ENS and the Squatting Problem, Part 2](https://medium.com/@kirkhutchison/ens-and-the-squatting-problem-part-2-5728c6788ca1). Further considerations based on feedback from Nick Johnson.
+Read about Volt Protocol [on Medium](https://medium.com/volt-protocol), I also write articles on my [personal account](https://medium.com/@kirkhutchison).
