@@ -5,12 +5,17 @@
 
 <summary></summary>
 
-- [The Morpho Opportunity](#the-morpho-opportunity)
-- [Advantages of Aggregated Lending](#advantages-of-aggregated-lending)
-- [Underlying Venue Liquidity Risk](#underlying-venue-liquidity-risk)
-  - [Volt Protocol Migitations](#volt-protocol-migitations)
-  - [The Future of Morpho; Beyond Lending Pools](#the-future-of-morpho-beyond-lending-pools)
-- [WAGMI?](#wagmi)
+[The Morpho Opportunity](#the-morpho-opportunity)
+
+[Advantages of Aggregated Lending](#advantages-of-aggregated-lending)
+
+[Underlying Venue Liquidity Risk](#underlying-venue-liquidity-risk)
+
+[Volt Protocol Migitations](#volt-protocol-migitations)
+
+[The Future of Morpho; Beyond Lending Pools](#the-future-of-morpho-beyond-lending-pools)
+
+[WAGMI?](#wagmi)
 
 </details>
 
