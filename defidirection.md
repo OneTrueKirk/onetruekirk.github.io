@@ -1,4 +1,4 @@
-# The Next Four Years of DeFi
+# The Future of DeFi Yields
 
 As we look to scale VOLT, I spend a lot of time thinking about what DeFi lending markets and yield assets look like in the coming years.
 

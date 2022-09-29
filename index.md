@@ -4,6 +4,6 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
-[Future Directions in DeFi](defidirection.md)
+[The Future of DeFi Yields](defidirection.md)
 
 [Morpho Whitepaper Review](morpho.md)
