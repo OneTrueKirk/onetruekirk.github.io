@@ -5,4 +5,5 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 Articles:
 
 [Future Directions in DeFi](defidirection.md)
+
 [Morpho Whitepaper Review](morpho.md)
