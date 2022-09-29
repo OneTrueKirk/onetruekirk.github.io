@@ -65,7 +65,7 @@ Too much illiquid backing, not enough surplus or reserves == bank run. We've see
 
 What's most important is to proactively maintain sufficient liquid reserves through algorithmic (or at least quickly responsive!) interest rate adjustments, and hold sufficient surplus and reserves to credibly attract liquidity to meet redemptions demand, just as Compound or Aave do with utilization-based rates.
 
-rotocols like MakerDAO or centralized stablecoin issuers must be very cautious not to take on an excessive duration mismatch between their liabilities and assets.
+Protocols like MakerDAO or centralized stablecoin issuers must be very cautious not to take on an excessive duration mismatch between their liabilities and assets.
 
 Clearly enough, the longer the maturity, the more unpredictable the actual cost of capital to finance the asset to maturity will be, as there is more time for unexpected changes to occur. The largest one year increase in US treasury rates in recent history was about 8 percentage points from a trough of ~8% in summer of 1980 to a peak of ~16% in summer of `81.
 
