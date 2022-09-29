@@ -1,9 +1,6 @@
-# Morpho Whitepaper Notes <!-- omit in toc -->
+# Morpho Whitepaper Notes
 
-## Contents <!-- omit in toc -->
-<details>
-
-<summary></summary>
+## Contents
 
 [The Morpho Opportunity](#the-morpho-opportunity)
 
@@ -16,8 +13,6 @@
 [The Future of Morpho; Beyond Lending Pools](#the-future-of-morpho-beyond-lending-pools)
 
 [WAGMI?](#wagmi)
-
-</details>
 
 # The Morpho Opportunity
 

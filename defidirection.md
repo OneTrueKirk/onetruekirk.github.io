@@ -2,11 +2,7 @@
 
 As we look to scale VOLT, I spend a lot of time thinking about what DeFi lending markets and yield assets look like in the coming years.
 
-<details>
-
-<summary>
-Contents
-</summary>
+## Contents
 
 [Crypto-Secured Lending Yields Trend Down](#crypto-secured-lending-yields-trend-down) ETH is the best collateral
 
@@ -23,8 +19,6 @@ Contents
 * [ETH is money?](#alternative-denominations) it has to start somewhere
 
 [DeFi certificates of deposit](#defi-certificates-of-deposit) stablecoin issuers want to borrow at fixed rates
-
-</details>
 
 ## Crypto-Secured Lending Yields Trend Down
 
