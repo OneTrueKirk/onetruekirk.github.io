@@ -2,7 +2,7 @@
 
 I read Dan Elitzer's "The Inevitability of UNIchain" ([go read it](https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4)) the day it was published and have been chewing on it and the responses since.
 
-> The primary pushback I get when presenting this thesis to folks who are not yet appchain-pilled is that moving to an appchain breaks composability. (Trust me, I’m very aware of the benefits of composability.) My response is that we’re already in a thoroughly multi-chain world, where the majority of all economic activity in crypto is clearly not all going to happen on a single chain.
+> The primary pushback I get when presenting this thesis to folks who are not yet appchain-pilled is that moving to an appchain breaks composability. (Trust me, I’m [very aware](https://tokeneconomy.co/superfluid-collateral-in-open-finance-8c3db15efac) of the [benefits of composability](https://newsletter.banklesshq.com/p/aquaponic-yield-farming).) My response is that we’re already in a thoroughly multi-chain world, where the majority of all economic activity in crypto is clearly not all going to happen on a single chain.
 
 > once applications reach a certain size, it starts to become increasingly important to have more direct control over their access–and their users’ costs for accessing–blockspace. The solution to this is a chain or rollup where access to blockspace is managed by validators whose primary concern is the success of a single application–their own.
 
