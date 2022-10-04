@@ -1,4 +1,4 @@
-# Unichain
+# Notes on UNIchain
 
 I read Dan Elitzer's "The Inevitability of UNIchain" ([go read it](https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4)) the day it was published and have been chewing on it and the responses since.
 

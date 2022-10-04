@@ -4,6 +4,8 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
+[Notes on UNIchain](unichain.md)
+
 [The Future of DeFi Yields](defidirection.md)
 
 [Morpho Whitepaper Review](morpho.md)
