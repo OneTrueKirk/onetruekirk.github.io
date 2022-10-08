@@ -32,7 +32,7 @@ Users who onboard either through the UNI app or pass another Sybil resistance ch
 
 On Unichain, LPs can opt to automatically sync their prices with L1 Uniswap v4 or with any other data source reported by the Unioracle. The Unioracle allows UNI stakers to report aggregated price data.
 
-Here UNI does triple duty as DEX governance token, validator/sequencer token, bridge bond token, and oracle token. Some will raise an eyebrow and feel I'm taking it to a fanciful extreme, but the point is that there are strong product advantages to integrated cross layer design.
+Here UNI does quadruple duty as DEX governance token, validator/sequencer token, bridge bond token, and oracle token. Some will raise an eyebrow and feel I'm taking it to a fanciful extreme, but the point is that there are strong product advantages to integrated cross layer design.
 
 # Cross Layer is Scary
 
