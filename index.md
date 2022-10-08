@@ -4,6 +4,8 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
+[A Letter to MakerDAO](lettertomaker.md)
+
 [Notes on UNIchain](unichain.md)
 
 [The Future of DeFi Yields](defidirection.md)
