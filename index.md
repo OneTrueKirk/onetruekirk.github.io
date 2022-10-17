@@ -4,6 +4,8 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
+[Are stablecoins money?](stablecoin.md)
+
 [A Farewell to Arbitrum](arbitrum.md)
 
 [Semantics](semantics.md)
