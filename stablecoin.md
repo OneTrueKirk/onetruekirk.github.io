@@ -1,4 +1,4 @@
-# Stablecoin
+# Are stablecoins money?
 > the rise of digital banknotes
 
 Lately I've been learning and writing about the [important differences](semantics.md) between money, credit, and money-substitutes.
@@ -40,7 +40,7 @@ The idea of a banknote is: you give the bank gold coins, the bank gives you a pa
 
 The bank does not keep all of the gold face value of the banknote on hand. Instead, it makes loans. While the bank commits to buying and selling banknotes on demand at a fixed price in gold coins (though perhaps not in unlimited quantities, and not without fee), what actually backs the banknotes is the credit of the bank. Actual gold reserves will inevitably be only a small part of the bank's assets -- as little as possible, as they are costly to store and produce no revenue.
 
-Banknotes are credit instruments, regardless of their denomination, representing a claim on the bank's assets. If the bank cannot redeem its notes, it is insolvent.
+Banknotes are credit instruments, regardless of their denomination, representing a claim on the bank's assets. If the bank cannot redeem its notes, it is insolvent. Just like banknotes, [stablecons are credit](https://cryptobanking.network/stablecoins-currency-or-credit/).
 
 ## Limits on banknote issuance
 
