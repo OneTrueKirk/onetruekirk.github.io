@@ -42,18 +42,6 @@ The bank does not keep all of the gold face value of the banknote on hand. Inste
 
 Banknotes are credit instruments, regardless of their denomination, representing a claim on the bank's assets. If the bank cannot redeem its notes, it is insolvent. Just like banknotes, [stablecoins are credit](https://cryptobanking.network/stablecoins-currency-or-credit/).
 
-## Limits on banknote issuance
-
-It's phyiscally possible for a bank to issue banknotes whose face value exceeds its assets. However, this will cause the market to react by devaluing that bank's notes, and in the banks creditors seeking their due. If a bank or stablecoin issuer's liabilities exceed its liquid assets, it's possible to survive insolvency through equity dilution. Even if the face value of liabilities exceeds those of liquid salable assets, there may be other assets that justify the value of the equity in a sale. This applies in the real world, as in the case of Credit Suisse where depositors need not fear any losses [even as the CEO departs and outside capital is required](https://www.reuters.com/business/finance/credit-suisse-approached-middle-eastern-fund-capital-injection-source-2022-10-17/).
-
-We can also consider an actual DeFi case study of InverseDAO and associated stablecoin DOLA.
-
-InverseDAO took on bad debt in a few incidents, including an oracle manipulation on INV that led to [over 15m in bad debt](https://twitter.com/InverseFinance/status/1510282040809299972?s=20&t=NTNUj9UAashwjfIfL5I-4g). The team is working toward repayment, but one must wonder, if DOLA is meaningfully undercollateralized, why is it still trading at only 13 bips off peg?
-
-The answer lies in the fact that InverseDAO is obtaining sufficient credit elsewhere to backstop the peg of DOLA. They've done this by heavily incentivizing Curve pools, such as the main DOLA-3CRV pool with over half the DOLA supply. Thanks to the high yields available, the DOLA supply floor was about 24m, well above the gap in the balance sheet which is ~15m.
-
-Banknotes work the same way -- as long as someone will accept a newly issued note at par, the bank can go on issuing, but eventually this information will propoagate into the market and increase the bank's cost of capital or lead to a run. The bank is **drawing on a limited reserve of credit**, not creating money out of 'thin air'. The fact that we cannot precisely measure the amount of credit available to a bank does not change this fact.
-
 ## Why does this matter?
 
 I have been tediously insisting that the following distinctions are important and [non-semantic](semantics.md):
@@ -73,7 +61,7 @@ No matter how much we analyze and try to predict, the fact remains that a demand
 
 Why hasn't fixed rate lending taken off so far? Purely on chain lending (overcollateralized cryptoasset collateral) isn't even enough demand to back DAI alone, let alone to support a liquid rates derivatives ecosystem ie of users wanting to long and short the rates on Aave or Compound. There simply aren't enough people who want to borrow at fixed rates against cryptoassets, or go long/short yields on existing platforms.
 
-On the other hand, there is real demand for yield. If MakerDAO were to a DAI Savings Rate of 1%, this would set a floor on stablecoin supply rates across DeFi and cause their TVL to balloon. I'm equally confident that if MakerDAO offered 3%+ for "yield locked DAI" on a 6mo term, users would come.
+On the other hand, there is real demand for yield. If MakerDAO were to commit to a DAI Savings Rate of 1%, this would set a floor on stablecoin supply rates across DeFi and cause their TVL to balloon. I'm equally confident that if MakerDAO offered 3%+ for "yield locked DAI" on a 6mo term, users would come.
 
 It's unlikely many would trust a newer, smaller stablecoin issuer enough to lock up their capital. A system to exit early with reasonable fee might mitigate this, while still providing a hedge to the protocol in a liquidity crisis. It's clear that this should be internal to the protocol, forcing users to access a secondary market with unpredictable pricing, MEV, etc is undesirable.
 
@@ -82,6 +70,20 @@ It's unlikely many would trust a newer, smaller stablecoin issuer enough to lock
 It takes time to build credit. The largest banks mostly originated in the 1800s or earlier (though some have shed their skins through multiple layers of mergers). While the mania of DeFi summer saw very high deposits in recently deployed protocols, this was invariably short-lived. Exchange stablecoins like BUSD and GUSD have demand profiles highly correlated with demand to trade on these exchanges, and a demand base if they choose, as Binance has, not to hold rival stablecoins in excess of the amount needed to process redemptions.
 
 DAI is alone among decentralized stablecoins in maintaining a stable base of EoA holders. A subset of this stable base could safely be deployed into longer maturity backing (>1yr maturity). Any meaningful DAI savings rate would attract substantial deposits. Other stablecoins like FRAX or LUSD require significant liquidity incentives and have a cost of capital higher than their sustainable revenues. The stable base of DAI demand also provides stability to the MKR price, reflexively. As mentioned above, even with negative book value when considering only financial assets and liabilities, there are additional equity components for both Credit Suisse and Maker that allow them to escape insolvency through equity sale at need.
+
+## Equity and the Limits of Solvency
+
+It's phyiscally possible for a bank to issue banknotes whose face value exceeds its assets. However, this will cause the market to react by devaluing that bank's notes, and in the banks creditors seeking their due. If a bank or stablecoin issuer's liabilities exceed its liquid assets, it's possible to survive insolvency through equity dilution. Even if the face value of liabilities exceeds those of liquid salable assets, there may be other assets that justify the value of the equity in a sale. This applies in the real world, as in the case of Credit Suisse where depositors need not fear any losses [even as the CEO departs and outside capital is required](https://www.reuters.com/business/finance/credit-suisse-approached-middle-eastern-fund-capital-injection-source-2022-10-17/).
+
+We can also consider an actual DeFi case study of InverseDAO and associated stablecoin DOLA.
+
+InverseDAO took on bad debt in a few incidents, including an oracle manipulation on INV that led to [over 15m in bad debt](https://twitter.com/InverseFinance/status/1510282040809299972?s=20&t=NTNUj9UAashwjfIfL5I-4g). The team is working toward repayment, but one must wonder, if DOLA is meaningfully undercollateralized, why is it still trading at only 13 bips off peg?
+
+The answer lies in the fact that InverseDAO is obtaining sufficient credit elsewhere to backstop the peg of DOLA. They've done this by heavily incentivizing Curve pools, such as the main DOLA-3CRV pool with over half the DOLA supply. Thanks to the high yields available, the DOLA supply floor was about 24m, well above the gap in the balance sheet which is ~15m.
+
+Banknotes work the same way -- as long as someone will accept a newly issued note at par, the bank can go on issuing, but eventually this information will propoagate into the market and increase the bank's cost of capital or lead to a run. The bank is **drawing on a limited reserve of credit**, not creating money out of 'thin air'. The fact that we cannot precisely measure the amount of credit available to a bank does not change this fact.
+
+This leads us to the conclusion that additional issuance must always be financed lest it cause a depeg, in effect curtailing the total value of the issuance even as the unit quantity increases. At what price credit is available to a given entity at a given time, there's no hard and fast rule. Where financing might dry up, there is reason to fear a terminal insolvency as in the case of UST.
 
 ## An Ounce of Prevention // A Pound of Cure
 
