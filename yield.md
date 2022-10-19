@@ -1,6 +1,6 @@
 # Money Creation, Rates, and Risk
 
-There are countless moving parts in the economy, making it tricky to untangle the threads or understand cause and effect. For example, many people blame the '[Great Recession](https://en.wikipedia.org/wiki/Great_Recession)' on the excess and irresponsible lending of banks, and wild financial speculation in mortgage backed securities.
+There are countless moving parts in the economy, making it tricky to untangle the threads or understand cause and effect. Many blame the '[Great Recession](https://en.wikipedia.org/wiki/Great_Recession)' on the excess and irresponsible lending of banks, and wild financial speculation in mortgage backed securities.
 
 On November 15, 2008 (not two months from the Genesis Block) [the G20 characterized the situation](https://georgewbush-whitehouse.archives.gov/news/releases/2008/11/20081115-1.html) as follows:
 
@@ -10,7 +10,7 @@ On November 15, 2008 (not two months from the Genesis Block) [the G20 characteri
 
 We're not here to dispute that various entities overextended themselves in subprime mortgage exposure. We'd prefer to see nature take its course with bad banks than a centralized force prop them up. But was the bust truly caused by the greed and excess of market participants? We think not.
 
-First let's take note that various market participants have their own threshold returns that they must clear. Traditional banks have expenses like rent for branch locations, salaries for tellers and bankers, ATM locations, armored cars, and postage costs. While they can make efforts to lower these, such as moving towards more online and paperless banking, the fact remains that these costs generally tend to go up over time with inflation, and is otherwise fairly stable.
+First let's take note that market actors have threshold returns that they must clear. Traditional banks have expenses like rent for branch locations, salaries for tellers and bankers, ATM locations, armored cars, and postage costs. While they can make efforts to lower these, such as moving towards more online and paperless banking, the fact remains that these costs generally tend to go up over time with inflation, and is otherwise fairly stable.
 
 For banks, it's therefore a big problem if interest rates go too low, as they'll be unable to obtain a large enough profit on their deposits to cover their fixed costs. Therefore, generating enough yield on long duration instruments is essential to their risk management.
 
@@ -25,7 +25,7 @@ We must wonder whether 5% was a fair 30 year Treasury yield in 2007, given an av
 ## Where does money come from?
 > big fish, small pond
 
-Central banks create money by purchasing government debt, and sometimes other assets. As under the gold standard a mint shapes gold into coins with denominations corresponding to standard weights, the central bank takes securities and dispenses dollars or other national currency.
+Central banks create unbacked currency and use it to purchase government debt, and sometimes other assets. As under the gold standard a mint shapes gold into coins with denominations corresponding to standard weights, the central bank takes securities and dispenses dollars or other national currency.
 
 Under the fiat system, then, the real base money is government debt and whatever other quasi-government securities such as mortgage backed securities the central bank will accept. Currencies like the dollar are a standard unit of account of the base money, which is debt backed by the state. The money supply expands as the state takes on more debt, and would contract it if it ever paid off its debts. Whether the central bank chooses to mint currency against the base money is irrelevant -- if excess money (government debt) is created beyond what the market demands, it will experience inflation (increased yield on bonds). If the central bank attempts to buy up government securities without offering redemption, it merely transfers the inflation to the currency unit.
 
@@ -37,6 +37,6 @@ Unsurprisingly, with their respective publics accepting their debt as money, nat
 >Historical Debt Outstanding, retrieved from Fiscal Data
 https://fiscaldata.treasury.gov/datasets/historical-debt-outstanding/, Oct 18, 2022
 
-If your first thought on seeing this chart was "that rate of growth can't last forever", you are not alone. In 1900, the US government debt was about two billion dollars in face value, at the time still pegged to and in theory redeemable for more than 16 million pounds of gold. Today, that amount of gold is worth 130 billion dollars, less than a hundredth of the 31 trillion dollar government debt.
+If your first thought on seeing this chart was that rate of growth can't last forever, you are not alone. In 1900, the US government debt was about two billion dollars in face value, at the time still pegged to and in theory redeemable for more than 16 million pounds of gold. Today, that amount of gold is worth 130 billion dollars, less than a hundredth of the 31 trillion dollar government debt. In dollar terms, the debt has increased ten thousand fold.
 
 Any analysis of volatility events in the money markets that does not begin with scrutiny of the actions of the government and the central banks ought to be subject to question. Given the enormous power of these entities, it is somewhere between absurd and sinister for them to lay the blame on market participants for what their own monetary policy has wrought.
