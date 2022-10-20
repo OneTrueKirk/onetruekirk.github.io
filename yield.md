@@ -1,6 +1,6 @@
 # Money Creation, Rates, and Risk
 
-There are countless moving parts in the economy, making it tricky to untangle the threads or understand cause and effect. Many blame the '[Great Recession](https://en.wikipedia.org/wiki/Great_Recession)' on the excess and irresponsible lending of banks, and wild financial speculation in mortgage backed securities.
+There are countless moving parts in the economy, making it tricky to untangle the threads or understand cause and effect in inflation, economic shocks, and periods of growth or decline. Many blame the '[Great Recession](https://en.wikipedia.org/wiki/Great_Recession)' on the excess and irresponsible lending of banks, and wild financial speculation in mortgage backed securities.
 
 On November 15, 2008 (not two months from the Genesis Block) [the G20 characterized the situation](https://georgewbush-whitehouse.archives.gov/news/releases/2008/11/20081115-1.html) as follows:
 
@@ -45,4 +45,13 @@ https://fiscaldata.treasury.gov/datasets/historical-debt-outstanding/, Oct 18, 2
 
 If your first thought on seeing this chart was that rate of growth can't last forever, you are not alone. In 1900, the US government debt was about two billion dollars in face value, at the time still pegged to and in theory redeemable for more than 16 million pounds of gold. Today, that amount of gold is worth 130 billion dollars, less than a hundredth of the 31 trillion dollar government debt. In dollar terms, the debt has increased ten thousand fold.
 
-Any analysis of volatility events in the money markets that does not begin with scrutiny of the actions of the government and the central banks ought to be subject to question. Given the enormous power of these entities, it is somewhere between absurd and sinister for them to lay the blame on market participants for what their own monetary policy has wrought.
+Any analysis of volatility events in the money markets must give particular scrutiny to the actions of the government and the central banks. Given the enormous power of these entities, it is somewhere between absurd and sinister for them to lay the blame on market participants for what their own monetary policy has wrought.
+
+## Is Debt Good Money
+
+There's nothing inherently wrong about a self-referential system where debt is the monetary base as I can see. Compared to a commodity money where literal physical gold must be mined from the ground, it's far more efficient in the use of resources. The difference is like that of Proof of Work vs Proof of Stake. Like a commodity money, its supply is responsive to demand. With sufficient demand for money, debt issuance becomes more attractive (rates go down). With insufficient demand for money, debt issuance becomes less attractive and reducing debts (buying back bonds) becomes potentially profitable at higher rates, causing the money supply to shrink.
+
+As such, I'm not necessarily in the camp that says fiat must be replaced by a cryptocurrency alternative. Maybe instead a fiat currency can decentralize and ungovern, becoming a global standard. The main issue is concentrated risk and control. As the only creator of the base money, the state exercises too much control over the monetary system. US Treasuries are far more liquid than any other comparable instrument and have a natural dominance as base money. Therefore, it's not easy to see the path out to a more diversified monetary system.
+
+Perhaps it starts with other countries competing more successfully in monetizing their own debt. New technological rails can open up markets, such as making it easier for a US dollar stablecoin issuer to invest some portion of funds in gilts (or secured lending against them).
+
