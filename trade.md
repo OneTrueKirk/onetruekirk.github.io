@@ -67,7 +67,7 @@ Moral of the story: it's the US government and the Fed, not private currency iss
 
 ## Where do we go from here?
 
-In today's climate is normalized for state actors to decry the systemic risks of stablecoins, when they themselves are by far the greatest source of volatility in the system. Central bankers blaming a market crash on commercial banks is like blaming a car crash on a child who is talking too loudly in the back seat, rather than the parent who chooses to turn around and yell at them while behind the wheel. It deserves counterargument and we should endeavor not to repeat their propaganda.
+In today's climate it is common for state actors to decry the systemic risks of stablecoins, when they themselves are by far the greatest source of volatility in the system. Central bankers blaming a market crash on commercial banks is like blaming a car crash on a child who is talking too loudly in the back seat, rather than the parent who chooses to turn around and yell at them while behind the wheel. It deserves counterargument and we should endeavor not to repeat their propaganda.
 
 Stablecoins offer the promise of radically more transparent, responsive, scalable, and fair financial systems. They are not a creeping danger, giving the levers of money creation to maniacal operators. Believe me, if I (or any stablecoin protocol or bank) were capable of creating money from thin air, I'd not spend so much time arguing online.
 
