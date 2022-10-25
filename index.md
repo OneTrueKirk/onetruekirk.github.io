@@ -4,6 +4,9 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
+[Except by Consent of the Governed](consent.md)
+24 October 2022
+
 [Trade Balances](trade.md)
 
 [Money Creation, Rates, and Risk](yield.md)
