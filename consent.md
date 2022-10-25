@@ -45,6 +45,8 @@ This references 'legal' enforcement, but the making, keeping, and breaking of co
 
 ![](pirates16.jpeg)
 
-The essence of a contract is an agreement with a socially-condoned and generally effective enforcement mechanism. Smart contracts offer what in many cases is a radically better enforcement mechanism. They can reach consensus or finality with infinitely greater speed and certainty than human judicial processes. Code can be rapidly iterated on in the free market, and is accessible to anyone anywhere. Rather than attempt an uphill battle in a system that doesn't offer meaningful rights to all stakeholders, one can try out something new.
+The essence of a contract is an agreement with a socially-condoned and generally effective enforcement mechanism. Smart contracts offer what in many cases is a radically better enforcement mechanism. They can reach consensus or finality with infinitely greater speed and certainty than human judicial processes. Code can be rapidly iterated on in the free market, and is accessible to anyone anywhere.
+
+**To stablecoin holders** and other frustrated participants in today's governance: remember that you are agreeing to the rules of the smart contract system you enter into. Rather than attempt an uphill battle in a system that doesn't offer meaningful rights to all stakeholders, one can try out something new.
 
 As I look ahead to the next century, it seems obvious that credibly neutral software is the future of international commerce and the monetary system. As I look around at the existing DeFi landscape, it feels like there is a lot of work to do. If this interests you, join us on the [Volt Protocol forum](https://community.voltprotocol.io) or [on Discord](https://discord.gg/XK8VZyKU97).
