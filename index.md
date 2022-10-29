@@ -4,6 +4,9 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
+[On the Need for Token Equity](chrysalis.md)
+28 October 2022
+
 [Except by Consent of the Governed](consent.md)
 24 October 2022
 
