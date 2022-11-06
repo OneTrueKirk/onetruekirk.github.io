@@ -55,7 +55,7 @@ That's where the central bank and the state come in. Unlike any normal credit re
 
 Unlike a normal borrowing relationship, there is no clearing, as the source of the state's 'credit' is its ability to forcibly extract value from the citizenry, not consensual market relationships.
 
-Within a state's borders its dominance is sufficiently great that only the most atrocious monetary policies can push the people to rebel against the fiat currency and convert to alternative exchange media.
+Within a state's borders its dominance is sufficiently great that only the most atrocious monetary policies can push the people to rebel against the fiat money and convert to alternative system, as in Argentina or other nations with large dollar black markets.
 
 Internationally, a notion of adverse clearings returns in the form of balances of trade and [interest rate parity](https://www.investopedia.com/terms/i/interestrateparity.asp). Most countries' debt is not monetized beyond their borders, so while they can forcibly borrow from their citizenry, they can go no further. In this sense, Country A hyperinflating its money cannot cause inflation in the money of Country B, any more than Bank A extending too much in loans can cause a depreciation of the money held in Bank B.
 
@@ -66,6 +66,9 @@ There is currently no shared global money. The closest thing is the debt of the 
 With this, I hope the reader is satisfied that:
 
 1) Any money operates in a certain space and time
+   
 2) Normal credit relationships are not money creation
+   
 3) The real base money in the fiat regime is government debt
+   
 4) Minting dollars against state debt is like issuing banknotes against gold reserves, not like mining new gold (currency creation, not money creation)
