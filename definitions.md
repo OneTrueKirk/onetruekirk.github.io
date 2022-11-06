@@ -51,9 +51,7 @@ From the above we can clearly see that even though I could hypothetically issue 
 
 ## Compulsory Counterparties
 
-That's where the central bank and the state come in. Unlike any normal credit relationship, the state is able to forcibly borrow from its citizens by issuing new debt. This makes the debt of the state the most liquid financial instrument and a natural base money. The central bank then mints this base money into currency. 
-
-Unlike a normal borrowing relationship, there is no clearing, as the source of the state's 'credit' is its ability to forcibly extract value from the citizenry, not consensual market relationships.
+That's where the central bank and the state come in. Unlike a normal borrowing relationship, there is no clearing, as the source of the state's 'credit' is its ability to forcibly extract value from the citizenry, not consensual market relationships. This makes the debt of the state the most liquid financial instrument and a natural base money. The central bank then mints this base money into currency. 
 
 Within a state's borders its dominance is sufficiently great that only the most atrocious monetary policies can push the people to rebel against the fiat money and convert to alternative system, as in Argentina or other nations with large dollar black markets.
 
