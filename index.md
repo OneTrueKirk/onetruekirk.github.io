@@ -4,6 +4,9 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 Articles:
 
+[In Which We Agree on Terminology](definitions.md)
+5 November 2022
+
 [On the Need for Token Equity](chrysalis.md)
 28 October 2022
 
