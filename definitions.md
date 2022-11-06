@@ -39,7 +39,7 @@ Consider the most basic lending relationship without intermediaries first of all
 
 The next step would be that I receive a deposit from one neighbor (in other words, a loan without a definite term), and I in turn lend to a second neighbor so that he can expand his farm. There is still no sense in which inflation has occurred or new money been created, versus the alternative in which Neighbor A spent his silver on consumption goods or invested it into improving his own farm.
 
-## Bilateral Intermediary Cooperation
+## Intermediary Cooperation
 
 The next step would be that I have a counterpart the next county over engaged in much the same business. We agree to extend each other credit such that if someone has a check or note written by one of us, they can cash it in with the other on demand. At regular intervals we will clear and settle balances, exchanging physical gold while our customers benefit from the convenience of notes.
 
