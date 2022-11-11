@@ -2,6 +2,10 @@ I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthu
 Building [Volt Protocol](https://www.voltprotocol.io).
 Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
+Delegate Platforms:
+
+[Morpho](morpho_delegate.md)
+
 Articles:
 
 [In Which We Agree on Terminology](definitions.md)
