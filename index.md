@@ -2,13 +2,18 @@ I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthu
 Building [Volt Protocol](https://www.voltprotocol.io).
 Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
+<div class="row">
+  <div class="col-md-8" markdown="1">
 Governance Roundups:
 
 [14 November 2022](gov14nov.md)
-
+  </div>
+  <div class="col-md-4" markdown="1">
 Delegate Platforms:
 
 [Morpho](morpho_delegate.md)
+  </div>
+</div>
 
 Articles:
 
