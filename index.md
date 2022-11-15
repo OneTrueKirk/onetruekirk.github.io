@@ -8,6 +8,9 @@ Delegate Platforms:
 
 Articles:
 
+[Toward Better Collateral in DeFi](collateral.md)
+14 November 2022
+
 [In Which We Agree on Terminology](definitions.md)
 5 November 2022
 
