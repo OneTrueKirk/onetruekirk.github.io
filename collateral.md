@@ -28,7 +28,7 @@ Getting more direct access to these instruments represents an incredibly importa
 
 ### Yield Pass Through
 
-Centralized stablecoin issuers face limitations in offering yield directly to holders without onerous KYC policies. They may have found a workaround in offering yield on MakerDAO PSMs, providing yield to a DAO which can in turn pass it through in part to holders through the DAI Savings Rate. This would be far more scalable than lending against cryptoassets on Aave or Compound and represent a compelling reserve base for any younger stablecoin like FIAT or VOLT.
+Centralized stablecoin issuers face limitations in offering yield directly to holders without onerous KYC policies. They may have found a workaround in offering yield on MakerDAO PSMs, providing yield to a DAO which can in turn pass it through in part to holders through the DAI Savings Rate. This would be far more scalable than lending against cryptoassets on Aave or Compound and represent a compelling reserve base for any younger stablecoin like FIAT or VOLT. Discussions on reactivating the DSR are [in progress](https://forum.makerdao.com/t/discussion-on-enabling-the-dsr/18759), much to my excitement.
 
 ### Tokenized ETFs
 
