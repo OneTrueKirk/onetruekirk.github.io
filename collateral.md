@@ -9,10 +9,10 @@ The mechanism by which this is accomplished is similar to that proposed by Joey 
 
 Fiat II is better than Turbo because it goes beyond cryptoasset-only collateral.
 
->- ****************Tier I:**************** Lower volatility, lower counterparty risk (e.g. reserve-backed stablecoins)
->- ****************Tier II:**************** Higher volatility, lower counterparty risk (e.g. native gas tokens)
->- ****************Tier III:**************** Lower volatility, higher counterparty risk (e.g. stablecoin yield strategy vaults)
->- ****************Tier IV:**************** Higher volatility, higher counterparty risk (e.g. liquid staking derivatives)
+>- **Tier I**: Lower volatility, lower counterparty risk (e.g. reserve-backed stablecoins)
+>- **Tier II**: Higher volatility, lower counterparty risk (e.g. native gas tokens)
+>- **Tier III**: Lower volatility, higher counterparty risk (e.g. stablecoin yield strategy vaults)
+>- **Tier IV**: Higher volatility, higher counterparty risk (e.g. liquid staking derivatives)
 
 I wonder what kind of reserve assets are likely to be used in practice, and the cost of capital to attract them vs the available yield from FIATDAO lending operations. Volt Protocol is in a similar boat where cost of capital to attract new deposits is likely to be fairly high, while boostrapping native lending markets or other yield source is nontrivial. My suspicion is that the correct tier to focus on is actually Tier III: USD-denominated yield assets. The demand for leverage against cryptoassets and their derivatives is limited, and it's challenging for an upstart to take market share. There's not enough demand to borrow against ETH etc at the rates that a younger stablecoin requires to attract deposits.
 
