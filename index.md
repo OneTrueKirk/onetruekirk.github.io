@@ -8,8 +8,9 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 | Governance Roundups  |
 | ------------- |
-| [14 November 2022](gov14nov.md)  |
 | [5 December 2022](gov5dec.md)  |
+| [14 November 2022](gov14nov.md)  |
+
 
 
 | Article  | Date |
