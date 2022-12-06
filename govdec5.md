@@ -26,7 +26,7 @@ A sensible precaution in light of recent [market manipulation](https://blockwork
 
 As stated [elsewhere](https://www.comp.xyz/t/v2-market-hardening-and-collateral-adjustments/3783), I believe that Compound v2 and Aave v2 should actively offboard assets whose market depth is small compared to the borrowable stablecoin and ETH supplies in their respective markets. Per asset supply limits and other safeguards as found in the v3 markets can isolate risk to acceptable bounds, making them better suited for these assets.
 
-There's an interesting discussion in the Compound forum suggesting more granular governance mechanisms to respond to risk, such as a risk council multisig authorized to make certain parameter adjustments but not code changes etc. I think it's a great idea and will lead to reduced risk for lenders.
+There's an [interesting discussion](https://www.comp.xyz/t/compound-risk-council/3823/3) in the Compound forum suggesting more granular governance mechanisms to respond to risk, such as a risk council multisig authorized to make certain parameter adjustments but not code changes etc. I think it's a great idea and will lead to reduced risk for lenders.
 
 ## Morpho
 
