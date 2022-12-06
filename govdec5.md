@@ -5,6 +5,9 @@ This post is the second in a series of public checkpoints of governance activity
 Read past issues here:
 [November 14](gov14nov.md)
 
+![img](IMG_0724.png)
+> a different kind of yield farming
+
 ## Compound v2
 
 Borrow caps were either imposed or increased on ten Compound assets in [CIP-135](https://compound.finance/governance/proposals/135):
