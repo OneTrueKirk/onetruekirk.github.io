@@ -15,6 +15,7 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Chrysopoeia](chrysopoeia.md) | 9 December 2022 |
 | [Toward Better Collateral in DeFi](collateral.md) | 14 November 2022 |
 | [In Which We Agree on Terminology](definitions.md) | 5 November 2022 |
 | [On the Need for Token Equity](chrysalis.md) | 28 October 2022 |
