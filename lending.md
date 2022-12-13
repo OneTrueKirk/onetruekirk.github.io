@@ -69,4 +69,4 @@ As onchain lending continues to grow, the other thing that's relevant is keeping
 
 ## Conclusion
 
-The interests of lenders and borrowers are in conflict. If we give up on the idea of a passive lending pool and embrace the model that lenders and borrowers are sophisticated, self-interested, and at times adversarial actors, new and more expressive models for lending become possible. To work well the system should be fair for both and prevent abuses, a tall order. I'm working on some specifics for this model and am looking forward to see whether it withers under criticism or proves robust.
+The interests of lenders and borrowers are in conflict. If we give up on the idea of a passive lending pool and embrace the model that lenders and borrowers are sophisticated, self-interested, and at times adversarial actors, more expressive and composable lending become possible. To work well the system should be fair for both and prevent abuses, a tall order. I'm working on some specifics for this model and am looking forward to see whether it withers under criticism or proves robust.
