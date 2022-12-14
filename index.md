@@ -1,6 +1,6 @@
 I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast and garden appreciator.
 Building [Volt Protocol](https://www.voltprotocol.io).
-Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
+Join us on [Discord](https://discord.com/invite/XK8VZyKU97).
 
 I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on which I would value feedback on Twitter or Discord.
 
