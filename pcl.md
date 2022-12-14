@@ -20,12 +20,11 @@ A Loan has:
 * Initial token ratio
 * Start time
 * Interest rate
+* Soonest Call Time (thanks to JaLa for this suggestion)
 
 A Lender is either matched or unmatched. Unmatched Lenders can set the interest rate they expect on loans and the ratio of collateral tokens: borrowed tokens they require, or are free to withdraw at any time. A Borrower initiates a Borrow by posting the necessary collateral and matching with one or more Lenders in a set of Loans. Routing can be done offchain, the Borrower will call in with a set of Lender positions to match with. The price to repay the loan is based on the initial token ratio, the interest rate, and the time elapsed since the start time.
 
-Matched Lenders can only withdraw atomically if there are enough Unmatched Lenders to take over their loans at equal or lower rates and collateral ratio. When there is no liquidity available to take over the loans and allow them to withdraw, Matched Lenders can “call” loans by paying a fee (the liquidation fee). This triggers an auction of all or part of the collateral backing the loan(s) of the borrower(s) they are matched with. The Borrower will have “right of first refusal” on the auction to repay their loan in full minus the liquidation fee. If the Borrower does not exercise this right, a normal liquidation auction will proceed, and the Lender will recoup their principal along with the liquidation fee if the proceeds are sufficient, or take a partial loss if they waited too long and the position became undercollateralized.
-
-The duration of the auction and how long the borrower has to act are important parameters. An MVP system might standardize these, but these parameters could be set by the Lender as part of the Loan variables.
+Matched Lenders can only withdraw atomically if there are enough Unmatched Lenders to take over their loans at equal or lower rates and collateral ratio. When there is no liquidity available to take over the loans and allow them to withdraw, Matched Lenders can “call” loans by paying a fee (the liquidation fee) which is deducted from the borrower's outstanding debt. A loan can only be called after its Soonest Call Time. This triggers an auction of all or part of the collateral backing the loan(s) of the Borrower(s) they are matched with, sufficient to cover the Borrower's debt. In an earlier version of the design, the Borrower had the right of first refusal to repay the loan. [Mathis](https://twitter.com/MathisGD_) suggested unifiying the call and liquidation more smoothly which I agreed with. The Borrower is free to participate themselves in the liquidation auction to minimize their costs.
 
 From a Borrower’s perspective, their loan is of indefinite duration with fixed rate, and they will receive a small compensation if it is recalled before they choose to repay.
 
@@ -41,7 +40,7 @@ I set my lending rate at 1% borrow rate and a minimum ratio of 1 ETH collateral 
 
 A user deposits 100 ETH into the pool as collateral and borrows my full 100k USDC, and starts paying 1%.
 
-After a while, the price of ETH declines such that the borrower position is at only 110% CR. This makes me uneasy, so I pay 0.1% ($100) to call the loan. As the position is still solvent, the borrower is able to repay in full and awarded $100 for the trouble, likely paying between $50 and $150 to unwind their position depending on how they execute, or a liquidator will do the same on their behalf if they are negligent.
+After a while, the price of ETH declines such that the borrower position is at only 110% CR. This makes me uneasy, so I pay 0.1% ($100) to call the loan. As the position is still solvent, the liquidation auction sells enough ETH to repay 99.9k USDC, and the Borrower is entitled to withdraw the rest of their ETH.
 
 Borrowers may prefer pools with higher liquidation fees (more costly for lenders to call the loan), while lenders may prefer a lower cost to call. Like different Uniswap fee tiers, it is non obvious what the preferences of market actors are a priori and useful to have an expressive system.
 
@@ -49,9 +48,7 @@ Borrowers may prefer pools with higher liquidation fees (more costly for lenders
 
 While this mechanism does not *require* the use of a *trusted* oracle, that doesn't mean an oracle cannot be used. It's possible to use oracles or keepers to automatically trigger liquidations, while still preserving the lender's right to call the loan and enforce a token unit max collateral ratio.
 
-Seb Ventures suggested that a standardized clearing time at least in major assets could improve UX, similar to existing overnight repo. In this model, lenders would choose whether they wish their loan to clear at the next rollover period, or to allow rollover. If a lender signals their intent to exit, the borrower must repay at the next regular interval (in the next minute, hourly, daily, or maybe even longer depending on the collateral and parameters used) or face liquidation. This would give the borrower surety of a minimum loan duration.
-
-A related idea was suggested by JaLa, that a loan have a minimum time from issuance until it can be called. I believe this could potentially be a parameter set by the lender so that lenders and borrowers would mutually consent on the loan terms.
+Seb Ventures suggested that a standardized clearing time at least in major assets could improve UX, similar to existing overnight repo. In this model, lenders would choose whether they wish their loan to clear at the next rollover period, or to allow rollover. If a lender signals their intent to exit, the borrower must repay at the next regular interval (in the next minute, hourly, daily, or maybe even longer depending on the collateral and parameters used) or face liquidation. This would give the borrower surety of a minimum loan duration. This could be built on top of the base loan mechanic with synced calling of loans in a set.
 
 # Summary
 
