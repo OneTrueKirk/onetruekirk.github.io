@@ -2,6 +2,8 @@ I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthu
 Building [Volt Protocol](https://www.voltprotocol.io).
 Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 
+I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on which I would value feedback on Twitter or Discord.
+
 | Delegate Platforms |
 | ------------- |
 | [Morpho](morpho_delegate.md) |
@@ -10,8 +12,6 @@ Join us in [Discord](https://discord.com/invite/XK8VZyKU97).
 | ------------- |
 | [5 December 2022](govdec5.md)  |
 | [14 November 2022](gov14nov.md)  |
-
-
 
 | Article  | Date |
 | ------------- | ------------- |
