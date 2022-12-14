@@ -1,4 +1,4 @@
-# Introduction
+# Protocol for Callable Loans
 
 How good anything is as collateral cannot be known with certainty. What can be sold today for a high price may find no buyers at all tomorrow. Handling assets as collateral thus requires constant observation, evaluation, and adjustment. It is also competitive. If we both need to liquidate the same asset, and I act first, I am likely to receive a better price.
 
@@ -12,7 +12,7 @@ To accomplish this, we must give up on the idea of a passive lending pool and em
 
 Below is an incomplete and actively-evolving sketch of how I could see this working.
 
-# Protocol for Callable Loans
+# Specification
 
 A Loan has:
 * Collateral token
