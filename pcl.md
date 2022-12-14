@@ -20,7 +20,7 @@ A Loan has:
 * Initial token ratio
 * Start time
 * Interest rate
-* Soonest Call Time (thanks to JaLa for this suggestion)
+* Soonest Call Time (thanks to [JaLa](https://mobile.twitter.com/0xjala) for this suggestion)
 
 A Lender is either matched or unmatched. Unmatched Lenders can set the interest rate they expect on loans and the ratio of collateral tokens: borrowed tokens they require, or are free to withdraw at any time. A Borrower initiates a Borrow by posting the necessary collateral and matching with one or more Lenders in a set of Loans. Routing can be done offchain, the Borrower will call in with a set of Lender positions to match with. The price to repay the loan is based on the initial token ratio, the interest rate, and the time elapsed since the start time.
 
