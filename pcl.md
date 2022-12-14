@@ -6,9 +6,9 @@ In this context, it is clear that existing monolithic lending markets like Compo
 
 By admitting only a single (or a narrow set of) lending terms in a given market, lenders are unable to meaningfully risk-differentiate when giving loans. Lenders are unable to call loans that have become risky. Raising rates is insufficient to produce liquidity on demand in extreme market scenarios. Like passive Uniswap LPs, lenders are at the mercy of sophisticated outside actors. The existing implementations put lenders on the back foot vs sophisticated borrowers. Beneficial competition between lenders (ie, different rate and risk opinions) cannot occur, but malignant competition (bank run risk in event of bad debt) is a looming threat. What’s more, they are at risk due to potentially unwise decisions or software errors by pool operators.
 
-The alternative I’m brainstorming is a “protocol for callable loans” (PCL). The PCL should be governance free and oracle free, such that lenders are entirely in control with no counterparty risk besides their exposure to the borrower’s collateral position.
+The alternative I’m brainstorming is a “protocol for callable loans”. The protocol should be governance free and oracle free, such that lenders are entirely in control with no counterparty risk besides their exposure to the borrower’s collateral position.
 
-To accomplish this, we must give up on the idea of a passive lending pool and embrace the understanding that lenders and borrowers are sophisticated, self-interested, and at times adversarial actors. Users may be either protocols, individuals, or entities, the underlying PCL should be as neutral and composable as possible.
+To accomplish this, we must give up on the idea of a passive lending pool and embrace the understanding that lenders and borrowers are sophisticated, self-interested, and at times adversarial actors. Users may be either protocols, individuals, or entities, the underlying protocol should be as neutral and composable as possible.
 
 Below is an incomplete and actively-evolving sketch of how I could see this working.
 
@@ -44,6 +44,14 @@ A user deposits 100 ETH into the pool as collateral and borrows my full 100k USD
 After a while, the price of ETH declines such that the borrower position is at only 110% CR. This makes me uneasy, so I pay 0.1% ($100) to call the loan. As the position is still solvent, the borrower is able to repay in full and awarded $100 for the trouble, likely paying between $50 and $150 to unwind their position depending on how they execute, or a liquidator will do the same on their behalf if they are negligent.
 
 Borrowers may prefer pools with higher liquidation fees (more costly for lenders to call the loan), while lenders may prefer a lower cost to call. Like different Uniswap fee tiers, it is non obvious what the preferences of market actors are a priori and useful to have an expressive system.
+
+# Further Commentary
+
+While this mechanism does not *require* the use of a *trusted* oracle, that doesn't mean an oracle cannot be used. It's possible to use oracles or keepers to automatically trigger liquidations, while still preserving the lender's right to call the loan and enforce a token unit max collateral ratio.
+
+Seb Ventures suggested that a standardized clearing time at least in major assets could improve UX, similar to existing overnight repo. In this model, lenders would choose whether they wish their loan to clear at the next rollover period, or to allow rollover. If a lender signals their intent to exit, the borrower must repay at the next regular interval (in the next minute, hourly, daily, or maybe even longer depending on the collateral and parameters used) or face liquidation. This would give the borrower surety of a minimum loan duration.
+
+A related idea was suggested by JaLa, that a loan have a minimum time from issuance until it can be called. I believe this could potentially be a parameter set by the lender so that lenders and borrowers would mutually consent on the loan terms.
 
 # Summary
 
