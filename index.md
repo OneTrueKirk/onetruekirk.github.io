@@ -15,6 +15,7 @@ I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on 
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Protocol for Liquidity Auction](liquidityauction.md) | 15 December 2022}
 | [On Lending Without Oracles](lending.md) | 12 December 2022 |
 | [Chrysopoeia](chrysopoeia.md) | 9 December 2022 |
 | [Toward Better Collateral in DeFi](collateral.md) | 14 November 2022 |
