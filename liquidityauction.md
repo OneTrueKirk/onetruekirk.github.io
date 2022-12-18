@@ -20,3 +20,79 @@ At this point, the reader might protest -- only one swap per tick per block? Wha
 Once the option is exercised, whoeever excercised it is free to make further use of the liquidity. For example, they can participate in a Cowswap style swap and match with limit orders submitted from offchain that they already had in hand, and which motivated them to bid. In the same sense, a market maker seeking to fill orders on centralized exchanges will bid for access to any onchain liquidity they can use to fill those orders at a profit.
 
 The core code for this system could be immutable, and thus should not extract any rents. Ideally, neutral and open infrastructure standards could be widely adopted by profit-seeking actors existing on top of the base layer, whether companies, individuals, or token-protocols.
+
+Work in progress pseudocode below:
+
+```
+Contract OptionBook {
+
+struct Option {
+    uint bid;
+    address highBidder;
+    uint tokenABalance;
+    uint tokenBBalance;
+    uint sharesOutstanding;
+    uint lastClaim;
+    uint accruedPremium;
+}
+
+mapping bidderBalances = mapping (address => uint) // the balance deposited to pay premia priced in ETH per bidder
+
+mapping optionBook = mapping (address, address, strikePrice => Option) // per tick per pair, the current high bid, high bidder, and current liquidity in tokenA and tokenB
+
+// if the new bid is higher than the current leading bid, the sender is the new high bidder
+function bid(uint amount, address tokenA, address tokenB, uint strikePrice) {
+    require (amount > optionBook(tokenA, tokenB, strikePrice).bid);
+    require (bidderBalances(sender) > MIN_BIDDER_BALANCE);
+    optionBook(tokenA, tokenB, strikePrice).bid = amount;
+    optionBook(tokenA, tokenB, strikePrice).highBidder = sender;
+}
+
+function junkBid // TODO for removing bidders who are below the min balance and can no longer afford to pay premia
+
+// for a given user address, the tokens A and B, and a given strike price, how many pool shares do they own?
+mapping (address, address, address, strikeprice => uint) liquidityDeposits
+
+// providing liquidity per tick per pair
+// give a pool share if the correct ratio of tokens were provided
+function writeOption(address tokenA, address tokenB, uint strikePrice, uint amountA, uint amountB) {
+   sender.pullTokens(tokenA, amountA);
+   sender.pullTokens(tokenB, amountB);
+   require(amountA / amount B == optionBook(tokenA, tokenB, strikePrice).tokenABalance / optionBook(tokenA, tokenB, strikePrice).tokenBBalance);
+   liquidityDeposits(sender, tokenA, tokenB, strikeprice) = (amountA / optionBook(tokenA, tokenB, strikePrice).tokenABlance) * optionBook(tokenA, tokenB, strikePrice).sharesOutstanding;
+   optionBook(tokenA, tokenB, strikePrice).sharesOutstanding += (amountA / optionBook(tokenA, tokenB, strikePrice).tokenABlance) * optionBook(tokenA, tokenB, strikePrice).sharesOutstanding;
+}
+
+function exercise(address tokenA, address tokenB, uint strikePrice, address outputToken, address inputToken, uint inputAmount, uint outputAmount) {
+    require(optionBook(tokenA, tokenB, strikePrice).highBidder == sender);
+
+    sender.pullTokens(inputToken, inputAmount);
+    if (inputToken = tokenA) {
+        require (inputAmount / outputAmount == strikePrice);
+        require(optionBook(tokenA, tokenB, strikePrice).tokenBBalance >= outputAmount);
+        optionBook(tokenA, tokenB, strikePrice).tokenBBalance -= outputAmount;
+        optionBook(tokenA, tokenB, strikePrice).tokenABalance += intputAmount;
+    } else {
+        require (outputAmount / inputAmount == strikePrice);
+        require(optionBook(tokenA, tokenB, strikePrice).tokenABalance >= outputAmount);
+        optionBook(tokenA, tokenB, strikePrice).tokenABalance -= outputAmount;
+        optionBook(tokenA, tokenB, strikePrice).tokenBBalance += intputAmount;
+    }
+
+    sender.transfer(outputToken, outputAmount);
+}
+
+function harvestPremium (address tokenA, address tokenB, uint strikePrice) {
+    optionBooK(tokenA, tokenB, uint strikePrice).highBidder.pullTokens(wETH, optionBooK(tokenA, tokenB, uint strikePrice).bid * (now - optionBook(tokenA, tokenB, uint strikePrice).lastClaim));
+    optionBook(tokenA, tokenB, uint strikePrice).accruedPremium = optionBooK(tokenA, tokenB, uint strikePrice).bid * (now - optionBook(tokenA, tokenB, uint strikePrice).lastClaim);
+}
+
+function removeLiquidity (address tokenA, address tokenB, uint strikePrice) {
+    amountToTransfer = (liquidityDeposits(sender, tokenA, tokenB, strikePrice) / optionBook(tokenA, tokenB, strikePrice).sharesOutstanding) * optionBook(tokenA, tokenB, strikePrice).accruedPremium;
+
+    liquidityDeposits(sender, tokenA, tokenB, strikePrice) = 0;
+    optionBook(tokenA, tokenB, strikePrice).accruedPremium -= amountToTransfer;
+
+    wETH.transfer(sender, amountToTransfer);
+}
+```
