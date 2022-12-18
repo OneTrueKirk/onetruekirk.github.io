@@ -15,7 +15,7 @@ I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on 
 
 | Article  | Date |
 | ------------- | ------------- |
-| [Liquidity Pricing for Stablecoins](pricingliquidity.md) 18 December 2022|
+| [Liquidity Pricing for Stablecoins](pricingliquidity.md) | 18 December 2022|
 | [Protocol for Liquidity Auction](liquidityauction.md) | 15 December 2022|
 | [On Lending Without Oracles](lending.md) | 12 December 2022 |
 | [Chrysopoeia](chrysopoeia.md) | 9 December 2022 |
