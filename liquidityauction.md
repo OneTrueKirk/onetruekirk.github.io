@@ -14,7 +14,7 @@ I’ve been convinced by Alex Nezlobin in this [informative discussion](https://
 
 One direction for a solution is to explicitly charge and capture an option-like premium in advance. This may cause gas efficiency concerns, but we’ll cross that bridge when we come to it.
 
-A related proposal was made by Hasu long ago, to auction off the “right to the first arbitrage” in a block, and there is [an Ethresearch thread by Josogo at Crocswap](https://ethresear.ch/t/mev-capturing-amm-mcamm/13336) fleshing out this idea. Selling the right to first arbitrage is a good idea but doesn’t go far enough, as it still guarantees that LPs are taking some loss to arbitrage, even if it reduces this loss. It also puts all the LPs on the same footing, instead of allowing them to compete on premia as well as setting their desired strike price.
+A related proposal was made by Hasu long ago, to auction off the “right to the first arbitrage” in a block, and there is [an Ethresearch thread by Josogo at CoWSwap](https://ethresear.ch/t/mev-capturing-amm-mcamm/13336) fleshing out this idea. Selling the right to first arbitrage is a good idea but doesn’t go far enough, as it still guarantees that LPs are taking some loss to arbitrage, even if it reduces this loss. It also puts all the LPs on the same footing, instead of allowing them to compete on premia as well as setting their desired strike price.
 
 ![img](hasu_proposal.png)
 
