@@ -55,3 +55,12 @@ As such, I'm not necessarily in the camp that says fiat must be replaced by a cr
 
 Perhaps it starts with other countries competing more successfully in monetizing their own debt. New technological rails can open up markets, such as making it easier for a US dollar stablecoin issuer to invest some portion of funds in gilts (or secured lending against them).
 
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

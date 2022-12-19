@@ -102,3 +102,12 @@ function removeLiquidity (address tokenA, address tokenB, uint strikePrice) {
     wETH.transfer(sender, amountToTransfer);
 }
 ```
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -15,3 +15,12 @@ The Volt Protocol team has identified certain long tail collaterals that pose ou
 In any vote, my priority will be representing the interests of lenders in minimizing risks. I will vote against the addition of high risk collateral assets even when present in the underlying market (ie, push against the addition of long tail collaterals present in Aave to Morpho-Aave).
 
 I will support changes to further the growth of Morpho and its lending efficiency, such as the addition of new borrowable assets, and look forward to integrating future Morpho markets with Volt Protocol.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -47,3 +47,12 @@ I'll leave you with Bagehot.
 >But it will be said—What would be better? What other system could there be? We are so accustomed to a system of banking, dependent for its cardinal function on a single bank, that we can hardly conceive of any other. But the natural system—that which would have sprung up if Government had let banking alone—is that of many banks of equal or not altogether unequal size. In all other trades competition brings the traders to a rough approximate equality. In cotton spinning, no single firm far and permanently outstrips the others. There is no tendency to a monarchy in the cotton world; nor, where banking has been left free, is there any tendency to a monarchy in banking either.
 
 ![](bagehot.jpeg)
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

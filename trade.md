@@ -72,3 +72,12 @@ In today's climate it is common for state actors to decry the systemic risks of 
 Stablecoins offer the promise of radically more transparent, responsive, scalable, and fair financial systems. They are not a creeping danger, giving the levers of money creation to maniacal operators. Believe me, if I (or any stablecoin protocol or bank) were capable of creating money from thin air, I'd not spend so much time arguing online.
 
 Nor are they limited to a single denomination. In a future article, we'll explore visions of what a future multipolar digital currency ecosystem could look like vs the possibility of increased dollarization on crypto rails, and how stablecoin protocols can benefit and facilitate whichever outcome the market prefers.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

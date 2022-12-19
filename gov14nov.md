@@ -44,3 +44,12 @@ Of greatest significance is the vote to [prevent the use of the surplus buffer t
 >Conceptually, the Surplus Buffer would go from being a cash-like cushion to protect against unexpected losses (in line with the concept of Common Equity Tier 1 capital of traditional banks—we had discussed it already here) to some sort of DAO-owned hedge fund with yield and volatility.
 
 If you've got MKR or delegations, please vote YES! to modify the surplus buffer upper limit (the threshold above which any excess can be used to buy ETH, this proposal sets the threshold to 1 billion, essentially enforcing accumulation of DAI in the surplus).
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

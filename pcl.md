@@ -57,3 +57,12 @@ Seb Ventures suggested that a standardized clearing time at least in major asset
 Current lending pools impose the burden of liquidation fees on borrowers and use dynamic rates to manage liquidity, yet do not allow lenders to directly “call” loans and access liquidity on demand. In other words, loans have infinite duration unless they drop into liquidatable range.
 
 The system described here imposes the burden of liquidation fees on lenders and fixes rates at borrow time, yet allows direct calling of loans (guaranteed time-to-withdraw for the lenders, instead of uncertain wait times or bank runs in a liquidity crunch). In other words, loan duration is determinable by the lender, but they must pay the cost of closing the loan.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -94,3 +94,12 @@ Credit Suisse has had many better opportunities than now to raise additional cap
 I have to shake my head at the fact that expanding the surplus buffer through MKR auctions isn't part of [the Endgame Plan](lettertomaker.md).  Luca Prosperi wrote [in Dirt Roads 37](https://dirtroads.substack.com/p/-37-capital-structures-for-stablecoin?r=k87cd&s=w&utm_campaign=post&utm_medium=web), and together with [Hexonaut](https://twitter.com/hexonaut) [in a forum proposal](https://forum.makerdao.com/t/aggressive-growth-strategy/13958/1), in favor of a largely expanded surplus. Instead, the going plan is to [use what little there is to buy ETH](https://forum.makerdao.com/t/mip84-activate-protocol-owned-vault-emulation/17713/71), and to use MKR tokens for an emissions scheme. It is what it is.
 
 Volt Protocol will maintain a surplus buffer or insurance fund target of 5-20% of the outstanding VOLT supply. Below the target, auctions of the VCON governance token will recapitalize. Above it, VCON holders will be able to redeem for their pro rata share of the surplus.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

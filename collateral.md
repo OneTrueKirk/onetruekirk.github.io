@@ -43,3 +43,12 @@ It's possible that composite instruments are the solution, ie a bundle of indivi
 ### On Chain Origination
 
 A more distant fruit to pluck but of great interest. Consider the idea of a bank issuing bonds on chain that are traded nowhere else, preferring Ethereum as its only means of settlement. Tokenization can meaningfully reduce the cost of security issuance and lower cost of capital for various businesses around the world. Issuance of high quality corporate debt on chain is a major step towards Ethereum as world economic nexus and heir to the US-centric banking system.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

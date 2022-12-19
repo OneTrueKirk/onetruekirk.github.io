@@ -50,3 +50,12 @@ The essence of a contract is an agreement with a socially-condoned and generally
 **To stablecoin holders** and other frustrated participants in today's governance: remember that you are agreeing to the rules of the smart contract system you enter into. Rather than attempt an uphill battle in a system that doesn't offer meaningful rights to all stakeholders, one can try out something new.
 
 As I look ahead to the next century, it seems obvious that credibly neutral software is the future of international commerce and the monetary system. As I look around at the existing DeFi landscape, it feels like there is a lot of work to do. If this interests you, join us on the [Volt Protocol forum](https://community.voltprotocol.io) or [on Discord](https://discord.gg/XK8VZyKU97).
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

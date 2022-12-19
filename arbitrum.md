@@ -67,3 +67,12 @@ On the other hand, because no state data is posted to mainnet, separate instance
 ## too long, didn't read
 
 I'm still working to understand the limitations of layer two scaling in more detail to inform Volt Protocol's future directions. The state fragmentation and withdrawal delays of optimistic rollups make them dangerous for cross-layer systems. Zk rollups are promising but more expensive and less scalable for protocols with less transaction demand. Validiums are intriguing but probably remain a ways off.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

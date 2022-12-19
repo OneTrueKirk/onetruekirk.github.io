@@ -100,3 +100,12 @@ Directional orders rather than static or bidirectional pools are the future. The
 Morpho deposits in Compound and Aave for now, just as VOLT deposits in Compound to earn yield, but it need not always be that way. While Morpho-Compound v2 may be "right on top of the primitive", the orderbook model described in the whitepaper could well replace the traditional lending pools entirely. 
 
 At VOLT we embrace the idea that no single lending model or algorithm will be dominant forever. VOLT holders seek reliable and low risk returns that are consistent over time and across layers, while market governance will adapt by changing venues in pursuit of the best yield and manage liquidity. An integration with Morpho-Compound v2 is likely to entirely replace VOLT direct deposits in Compound v2.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

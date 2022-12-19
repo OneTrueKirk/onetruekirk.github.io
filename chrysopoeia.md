@@ -33,3 +33,12 @@ I'll leave you with a few warning signs to watch out for with these kind of prod
 * attempts to move goalposts with alternative or non-standard definitions and made-up terminology. A synthetic is a synthetic, it doesn't matter whether you call it an ETF, a stablecoin, a free floating reserve currency, of a unit of account. You still can't keep stability at any peg, in any range, or relative to anything using purely endogenous collateral. It has never been done and never will be.
 * primacy of decentralization concerns used to suppress worry about lack of backing. Sure, you might not like USDC, but you won't make it go away by closing your eyes.
 * overly complex (obscurantist) mathematical structures. If it doesn't OBVIOUSLY add up how the price mechanism works, it's more likely that something is deeply wrong than that you are missing something.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -43,3 +43,12 @@ Across the board, MakerDAO is tightening up and derisking by lowering debt ceili
 >A recent proposal tightened MANA-A parameters to address extremely high observed risk levels. Liquidity and market risk remains elevated, and possible DCG related holdings also indicate potentially higher risk levels. For the time being it is recommended to reduce the debt ceiling to 0. In the future if risk conditions improve the debt ceiling could be reinstated, or alternatively the vault could be offboarded at the discretion of Maker governance if it no longer fits within overall protocol strategy.
 
 You love to see it.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

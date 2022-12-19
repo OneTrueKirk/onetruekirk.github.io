@@ -102,3 +102,12 @@ I do NOT mean this literally. What I do mean is that DeFi borrowers (or the stab
 To be able to better service real world capital demand, and more selfishly to access higher yields, stablecoin protocols need access to term deposits, not exclusively demand deposits. The surplus buffer can serve in this capacity, but equity capital is less scalable/more expensive.
 
 For now, on chain capital is generally reluctant to commit to any kind of lockup. Risks abound and opportunities are many, users want to keep flexibility. As markets mature, I believe more capital will be comfortable accepting a 3mos-1year lockup such that early withdraw is possible with fixed fee, and fixed yield for the duration, at a premium to the yield in liquid markets like Aave or Compound. Obtaining access to fixed rate capital is a priority for Volt Protocol over the next two years and would meaningfully expand the capabilites of market governance.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

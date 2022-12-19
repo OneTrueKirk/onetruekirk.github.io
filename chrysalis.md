@@ -119,3 +119,12 @@ Other key takeaways:
 * any protocol that manages risk would benefit from reserves
 * 'users' can also be governors and have a say in system changes, upgradeability alone does not require a separate governance token
 * some tokens are mostly cultural assets and don't have an important role for the on chain contracts, and maybe that's okay
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

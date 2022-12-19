@@ -41,3 +41,12 @@ Volt Protocol is in the process of deprecating support for Arbitrum, mostly beca
 There is a lot of decentralization middle ground between Binance Smart Chain and Uniswap v3, and valuable market share waiting to claim. That said, rollups are immature, and anything strongly reliant on liveness should be treated with some fear on L2, such as highly leveraged borrow or lending, market making, perps, etc. Let alone operations reliant on cross layer state.
 
 Along with accidental uptime failures, there is the risk of denial of service attacks on sequencers. Until existing rollups demonstrate robust decentralization and uninterrupted liveness for extended periods, anything more complicated such as dedicated appchains or multilayer integrated systems will remain spooky.
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

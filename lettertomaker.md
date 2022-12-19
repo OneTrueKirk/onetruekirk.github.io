@@ -55,3 +55,12 @@ We've recognized that a sharp distinction between "stablecoin" and "governance t
 Lido is in the process of innovating in the area of dual governance ([I owe a response in the thread!](https://research.lido.fi/t/ldo-steth-dual-governance/2382)). Volt Protocol will do the same by granting veto rights to VOLT holders. This way even if I or other governance token holders are struck by a dangerous notion in the future, VOLT holders can protect themselves.
 
 If this interests you (along with an always-on DAI savings rate, as we believe in yield by defaut), join the conversation in [our community forum](https://community.voltprotocol.io).
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

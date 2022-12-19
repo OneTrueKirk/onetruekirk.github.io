@@ -70,3 +70,12 @@ With this, I hope the reader is satisfied that:
 3) The real base money in the fiat regime is government debt
    
 4) Minting dollars against state debt is like issuing banknotes against gold reserves, not like mining new gold (currency creation, not money creation)
+
+<script src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
