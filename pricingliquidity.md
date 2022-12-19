@@ -26,7 +26,7 @@ You may have already read my recent idea for a callable loans primitive -- if no
 
 ![img](always_has_been_auction.png)
 
-We then have a more complete model of sell-or-call, where anyone willing to accept a discount on the stablecoin less than the cost-to-call can do so. For example, assume the fee to call a loan were 0.05%. There might exist a pool VOLT-USDC, where upon deposit the pool offers a 1:1 swap, and gradually decays to a 0.05% discount, after which loans are called to satisfy the pool's redemption demand. The discount would be reset to 0% either if a swap occurs filling the pool's demand or if the loans are called.
+We then have a more complete model of sell-or-call, where anyone willing to accept a discount on the stablecoin less than the cost-to-call can do so. For example, assume the fee to call a loan were 0.05%. There might exist a pool VOLT-USDC, where upon deposit the pool offers a swap at the current VOLT index price (a system value based on yield accrued over time), and gradually decays to a 0.05% discount, after which loans are called to satisfy the pool's redemption demand. The discount would be reset to 0% either if a swap occurs filling the pool's demand or if the loans are called.
 
 If you like this sort of thing, please also have a look at my recent article about [auction-style liquidity provision](liquidityauction.md).
 
