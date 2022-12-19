@@ -41,3 +41,13 @@ Real, hard asset collateral backing is surely required to satisfy demand for sta
 * ample first-loss capital + incentive aligned governance
 
 The onchain protocol does not need to be opinionated about types of legal vehicles and jurisdictions, and there is a concerning amount of insider dealing within MakerDAO. Our preference at Volt Protocol would be to have access to a variety of asset tokenizers and borrowers. I anticipate substantial short-term progress in this sector, as much groundwork has already been laid fueled by the market exuberance of the last two years.
+
+<script 
+        src="https://utteranc.es/client.js"
+        repo="OneTrueKirk/onetruekirk.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
