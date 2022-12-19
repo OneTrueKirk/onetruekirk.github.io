@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # Notes on UNIchain
 
 I read Dan Elitzer's "The Inevitability of UNIchain" ([go read it](https://medium.com/nascent-xyz/the-inevitability-of-unichain-bc600c92c5c4)) the day it was published and have been chewing on it and the responses since.

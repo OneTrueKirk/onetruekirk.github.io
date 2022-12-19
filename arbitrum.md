@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # A Farewell to Arbitrum
 
 Today Volt Improvement Proposal 13 deprecated support for VOLT on Arbitrum. Holders will be able to redeem with no slippage or fees, but the Arbitrum PSM price will no longer adjust based on the VOLT rate. [Read more in the community forum.](https://community.voltprotocol.io/t/vip-13-deprecate-arbitrum-support/21/9?u=onetruekirk)

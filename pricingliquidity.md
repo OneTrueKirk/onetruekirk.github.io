@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # Liquidity Pricing for Stablecoins
 
 The premise of a stablecoin is a tokenized demand deposit. The ability to realize a determinate amount of value at any time, freely transferable, and possibly interest bearing. The specific denomination is less relevant to this discussion, although so far the clear majority of demand has been in dollars. 

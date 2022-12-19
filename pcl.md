@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # Protocol for Callable Loans
 
 How good anything is as collateral cannot be known with certainty. What can be sold today for a high price may find no buyers at all tomorrow. Handling assets as collateral thus requires constant observation, evaluation, and adjustment. It is also competitive. If we both need to liquidate the same asset, and I act first, I am likely to receive a better price.

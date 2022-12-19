@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # Money Creation, Rates, and Risk
 
 There are countless moving parts in the economy, making it tricky to untangle the threads or understand cause and effect in inflation, economic shocks, and periods of growth or decline. Many blame the '[Great Recession](https://en.wikipedia.org/wiki/Great_Recession)' on the excess and irresponsible lending of banks, and wild financial speculation in mortgage backed securities.

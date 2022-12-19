@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # In Which We Agree on Terminology
 
 We've been arguing on the internet lately about whether commercial banks can create money, what constitutes money creation, how an inflationary vs deflationary base money impacts credit markets, among other closely related questions.

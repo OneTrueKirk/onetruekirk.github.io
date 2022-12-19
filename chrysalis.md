@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FD3E90TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6FD3E90TCT');
+</script>
 # On the Need for Token Equity
 
 As we get closer to the launch of market governance, I am reflecting on the proper construction and role of so-called `governance tokens` in DeFi. Broadly speaking, protocols can be distinguished by what level of risk management or active change is needed in the system.
