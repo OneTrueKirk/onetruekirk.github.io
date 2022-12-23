@@ -38,9 +38,7 @@ I'm hardly the first to suggest this (see Consensys [up to the same thing in 202
 
 The writers of the Securities Act of 1933[^3] made it clear enough what their goals were:
 
-```
-To provide full and fair disclosure of the character of securities sold in interstate and foreign commerce and through the mails, and to prevent frauds in the sale thereof, and for other purposes.
-```
+>To provide full and fair disclosure of the character of securities sold in interstate and foreign commerce and through the mails, and to prevent frauds in the sale thereof, and for other purposes.
 
 This is not intended to prevent government-issued securities from being freely exchanged on a public ledger! Quite the opposite, and I suspect the authors of this act would recognize the Ethereum network and the neutral markets it supports for the technological marvels that they are.
 
