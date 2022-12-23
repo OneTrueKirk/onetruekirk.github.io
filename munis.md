@@ -11,7 +11,7 @@
 # Onchain Markets for Municipal Bonds
 > to boldy go where no exchange has gone before
 
-Municipal bonds or munis, issued by states, counties, or cities, are ripe for tokenization. The roughly $4 trillion municipal bonds market is illiquid and fragmented among numerous dealers without open orderbooks[^1]. Lower liquidity and high spreads are invariably priced into the bond yields[^2] and thus the cost of capital for the issuer.
+Municipal bonds or munis, issued by states, counties, or cities, are ripe for tokenization. The roughly $4 trillion municipal bonds market in the United States is illiquid and fragmented among numerous dealers without open orderbooks[^1]. Lower liquidity and high spreads are invariably priced into the bond yields[^2] and thus the cost of capital for the issuer.
 
 While not all jurisdictions are trustworthy counterparties, many are, and their cost of capital might be reduced by the transparent 24/7 markets which Ethereum provides.
 
