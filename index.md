@@ -32,6 +32,7 @@ I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on 
 
 | Article  | Date |
 | ------------- | ------------- |
+| [So You've Made a Valueless Token -- Now What?](now_what.md) | 1 January 2023 |
 | [Onchain Markets for Municipal Bonds](munis.md) | 22 December 2022 |
 | [Liquidity Pricing for Stablecoins](pricingliquidity.md) | 18 December 2022|
 | [Protocol for Liquidity Auction](liquidityauction.md) | 15 December 2022|
