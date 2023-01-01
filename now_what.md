@@ -27,7 +27,7 @@ The Sushi team is working on an effort to capture a portion of the [miner extrac
 
 Providing immutable software that is used for exchange is not a basis for long term rent collection. Sushi itself began as a fork, so even in the best case that Sushi unveils an MEV solution that radically improves returns vs Uniswap, it's hardly clear that long term value capture should occur.
 
-Where do we go from here? In my eyes, $SUSHI would have been better left to wither after Chef Nomi's ignominious retreat. The only result of perpetuating its existence is passing the hot potato between holders as the team extracts what value they can, and only those holders who can find a greater fool exit at profit. At a certain point, the most ethical outcome is for existing holders to mark down their loss and shut things down. By continuing to promote their token as a speculative investment while having no demonstrable basis to support the growth of its value, the team aren't doing themselves or the rest of us any favors.
+Where do we go from here? In my eyes, $SUSHI might have been better left to wither after Chef Nomi's ignominious retreat. The only result of perpetuating its existence is passing the hot potato between holders as the team extracts what value they can, and only those holders who can find a greater fool exit at profit. At a certain point, the most ethical outcome is for existing holders to mark down their loss and shut things down. By continuing to promote their token as a speculative investment while having no demonstrable basis to support the growth of its value, the team aren't doing themselves or the rest of us any favors.
 
 ## Dead Protocols
 > or, where things went wrong
