@@ -48,6 +48,8 @@ One of my biggest lessons from this cycle was that composability breeds complexi
 
 There's no easy answer, and hindsight is 20/20, but if all of the protocol teams integrating Fuse had done deep code-level diligence before doing so, maybe the exploit could have been caught and prevented. We at Volt Protocol are seeking to bring a high level of peer scrutiny to all of the protocols we integrate with, as well as setting up active testing, monitoring, and simulation infrastructure to help keep track of governance changes or market fluctuations.
 
+It's also notable that none of the Fuse pool operators or integrated protocols, to my knowledge, was engaged in active risk monitoring on the platform using bots or the like, and the same is true of Compound or Aave today. This is another area of improvement, and in Volt Protocol we are working on "Sentinels" that can detect either unexpected governance proposals, or imminnent bad debt, and take emergency action to withdraw system funds and temporarily pause the integration.
+
 ## Protocols Gone Private
 
 There's only one path I can see for $SUSHI (and many similar protocols) that doesn't mean perpetual extraction of value from the existing or future tokenholders, which is for the brand to be applied to an actually profitable underlying activity.
