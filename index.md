@@ -27,6 +27,7 @@ I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on 
 
 | Governance Roundups  |
 | ------------- |
+| [15 January 2022](govjan15.md)  |
 | [5 December 2022](govdec5.md)  |
 | [14 November 2022](gov14nov.md)  |
 
