@@ -65,6 +65,7 @@ As always, a lot going on.
 >Commercial risk analysis: including but not limited to sponsor or arranger risk, credit risk, concentration risk, servicing risk, etc.
 >
 >Review of the commercial structure: flow of funds, leverage profile, credit enhancement, servicing mechanics, scaling/ramp-up/utilization structure, reps/warranties/covenants
+
 * January 5 : "[Parameter Changes Proposal - PPG-OMC-001](https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-5-january-2023/19327)". A variety of adjustments to stability fees and system risk parameters. Most noteworthy here is the decision to increase debt ceilings on Aave and Compound D3Ms, which I disapprove of, though it remains low. Aave and Compound introduce additional risk to the DAI backing that is in my eyes unnecessary. MakerDAO lacks the capacity to monitor governance and collateral risk in these markets and respond appropriately to a sudden change in risk conditions. There is no mechanism to safely mark down bad debt in one of these markets, and it's likely a manual emergency governance intervention would be required were this to occur. While major bad debt on Aave or Compound may sound absurd to some, it is far from impossible.
 
 <script src="https://utteranc.es/client.js"
