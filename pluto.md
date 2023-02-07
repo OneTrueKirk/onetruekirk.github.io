@@ -26,7 +26,7 @@ A few notable passages:
 
 Some decisions are Judgements of Solomon where an acceptable compromise is impossible, such as whether to deploy the Uniswap code on a new chain. You can't deploy it halfway. It's hard to imagine a credibly neutral way the results of the decision could be measured and used to punish or reward voters.
 
-On the other hand, for governance of lending protocols and stablecoins, there are many types of system actions that lend themselves well to granular control. For example, the collateral factor of ETH on Compound is not a binary yes/no, nor are the relative debt ceilings of the various collateral assets on MakerDAO. These parameters are amenable to control by guage style voting with skin in the game, as failures or successes can be transparently observed on chain.
+On the other hand, for governance of lending protocols and stablecoins, there are many types of system actions that lend themselves well to granular control. The collateral factor of ETH on Compound need not be a binary yes/no, nor must the debt ceilings of the various collateral assets on MakerDAO. These parameters are amenable to control by guage style voting with skin in the game, as failures or successes can be transparently observed on chain.
 
 Instead of choosing between :
 
@@ -52,7 +52,7 @@ Optimistic governance, as pioneered by Fei Protocol, meshes well with the market
 
 Vitalik proposes building "fork friendly" systems, but it is difficult to imagine how one would properly fork DAI and fairly engage the DAI holders in the decision making process. Instead, I favor an optimistic governance approach with checks and balances from multiple voting classes and distinct quorums for different purposes.
 
-For example, it's common for protocols to have a certain quorum threshold for a vote. This can be made more nuanced by making separate positive and negative consent, ie, you need at least 10% of the supply to vote yes on a proposal for it to pass, but if at least 20% votes no, it can't pass no matter how many tokens vote in favor.
+It's common for protocols to have a certain quorum threshold for a vote. This can be made more nuanced by making separate positive and negative consent, ie, you need at least 10% of the supply to vote yes on a proposal for it to pass, but if at least 20% votes no, it can't pass no matter how many tokens vote in favor.
 
 Likewise, the stablecoin holders themselves (in the case of a protocol like Compound, the cToken holders) can hold veto rights over code changes, so they are able to protect themselves without being forced to exit.
 
