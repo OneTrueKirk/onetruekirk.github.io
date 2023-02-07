@@ -77,6 +77,12 @@ Bringing back the MakerDAO example, a governance flow might exist where collater
 
 ## Conclusion
 
+tldr; principal-agent and coordination problems are not perfectly or fully solvable. A good solution will require:
+- skin in the game on the part of decision makers
+- checks and balances where the governed can respond to actions by the governors
+- granular and nuanced decision making than winner-take-all where possible
+- hardening of the system to minimize arbitrary changes
+
 There's not much new under the sun as far as ideas for how to build more robust decentralized systems. If you enjoy this sort of thing, go trawl old blog and [Ethresearch posts](https://ethresear.ch/t/votes-as-buy-orders-a-new-type-of-hybrid-coin-voting-futarchy/10305?page=2). What's hard is rejecting the bad ideas and implementing the good ones safely, cost effectively, and expediently. If you have comments, suggestions, or criticisms, I would love to hear from you below or on Twitter.
 
 p.s. : The special form of ragequit linked in the Ethresearch post above is intriguing, but relies on a trusted price oracle, so it doesn't add up for me.
