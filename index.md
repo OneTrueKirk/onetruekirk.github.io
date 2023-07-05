@@ -15,24 +15,23 @@
 
   gtag('config', 'G-6FD3E90TCT');
 </script>
-I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast and garden appreciator.
-Building [Volt Protocol](https://www.voltprotocol.io).
-Join us on [Discord](https://discord.com/invite/XK8VZyKU97).
 
-I'm currently working on an idea for a [Protocol for Callable Loans](pcl.md) on which I would value feedback on Twitter or Discord.
+# Greetings, traveler
+![img](whoosh.jpg)
 
-| Delegate Platforms |
-| ------------- |
-| [Morpho](morpho_delegate.md) |
-
-| Governance Roundups  |
-| ------------- |
-| [15 January 2022](govjan15.md)  |
-| [5 December 2022](govdec5.md)  |
-| [14 November 2022](gov14nov.md)  |
+I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast, garden appreciator, and most recently a father.
+This site is the home to my personal writing about any and all topics of interest. For articles specific to the now-deprecated [Volt Protocol v1](https://www.voltprotocol.io) or the in-development [Ethereum Credit Guild](https://github.com/volt-protocol/ethereum-credit-guild), [visit my Substack](https://onetruekirk.substack.com). You can also join us on [Discord](https://discord.com/invite/XK8VZyKU97).
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Decentralizing Credit 203](https://onetruekirk.substack.com/p/decentralizing-credit-203) | 28 June 2023 |
+| [Decentralizing Credit 202](https://onetruekirk.substack.com/p/decentralizing-credit-202) | 19 May 2023 |
+| [Decentralizing Credit 201](https://onetruekirk.substack.com/p/decentralizing-credit-201) | 16 May 2023 |
+| [Decentralizing Credit 105](https://onetruekirk.substack.com/p/decentralizing-credit-105) | 12 June 2023 |
+| [Decentralizing Credit 104](https://onetruekirk.substack.com/p/decentralizing-credit-104) | 5 May 2023 |
+| [Decentralizing Credit 103](https://onetruekirk.substack.com/p/decentralizing-credit-103) | 3 May 2023 |
+| [Decentralizing Credit 102](https://onetruekirk.substack.com/p/decentralized-credit-102) | 25 April 2023 |
+| [Decentralizing Credit 101](https://onetruekirk.substack.com/p/decentralized-credit-101) | 20 April 2023 |
 | [Redundancy and the Oracle Problem](redundancy.md) | 14 February 2023 |
 | [Against Token Plutocracy](pluto.md) | 7 February 2023 |
 | [So You've Made a Valueless Token -- Now What?](now_what.md) | 1 January 2023 |
