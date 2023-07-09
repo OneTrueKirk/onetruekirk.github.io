@@ -24,7 +24,7 @@ This site is the home to my personal writing about any and all topics of interes
 
 | Article  | Date |
 | ------------- | ------------- |
-| [CRV: A Lending Risk Case Study](crv.md) | 8 July 2023 |
+| [CRV: A Lending Risk Case Study](https://onetruekirk.github.io/crv.html) | 8 July 2023 |
 | [Decentralizing Credit 203](https://onetruekirk.substack.com/p/decentralizing-credit-203) | 28 June 2023 |
 | [Decentralizing Credit 202](https://onetruekirk.substack.com/p/decentralizing-credit-202) | 19 May 2023 |
 | [Decentralizing Credit 201](https://onetruekirk.substack.com/p/decentralizing-credit-201) | 16 May 2023 |
@@ -33,24 +33,24 @@ This site is the home to my personal writing about any and all topics of interes
 | [Decentralizing Credit 103](https://onetruekirk.substack.com/p/decentralizing-credit-103) | 3 May 2023 |
 | [Decentralizing Credit 102](https://onetruekirk.substack.com/p/decentralized-credit-102) | 25 April 2023 |
 | [Decentralizing Credit 101](https://onetruekirk.substack.com/p/decentralized-credit-101) | 20 April 2023 |
-| [Redundancy and the Oracle Problem](redundancy.md) | 14 February 2023 |
-| [Against Token Plutocracy](pluto.md) | 7 February 2023 |
-| [So You've Made a Valueless Token -- Now What?](now_what.md) | 1 January 2023 |
-| [Onchain Markets for Municipal Bonds](munis.md) | 22 December 2022 |
-| [Liquidity Pricing for Stablecoins](pricingliquidity.md) | 18 December 2022|
-| [Protocol for Liquidity Auction](liquidityauction.md) | 15 December 2022|
-| [On Lending Without Oracles](lending.md) | 12 December 2022 |
-| [Chrysopoeia](chrysopoeia.md) | 9 December 2022 |
-| [Toward Better Collateral in DeFi](collateral.md) | 14 November 2022 |
-| [In Which We Agree on Terminology](definitions.md) | 5 November 2022 |
-| [On the Need for Token Equity](chrysalis.md) | 28 October 2022 |
-| [Except by Consent of the Governed](consent.md) | 24 October 2022 |
-| [Trade Balances](trade.md) | |
-| [Money Creation, Rates, and Risk](yield.md) | |
-| [Are stablecoins money?](stablecoin.md) | |
-| [A Farewell to Arbitrum](arbitrum.md) | |
-| [Semantics](semantics.md) | |
-| [A Letter to MakerDAO](lettertomaker.md) | |
-| [Notes on UNIchain](unichain.md) | |
-| [The Future of DeFi Yields](defidirection.md) | |
-| [Morpho Whitepaper Review](morpho.md) | |
+| [Redundancy and the Oracle Problem](https://onetruekirk.github.io/redundancy.html) | 14 February 2023 |
+| [Against Token Plutocracy]([pluto.md](https://onetruekirk.github.io/pluto.html)) | 7 February 2023 |
+| [So You've Made a Valueless Token -- Now What?]((https://onetruekirk.github.io/now_what.html)) | 1 January 2023 |
+| [Onchain Markets for Municipal Bonds](https://onetruekirk.github.io/munis.html) | 22 December 2022 |
+| [Liquidity Pricing for Stablecoins](https://onetruekirk.github.io/pricing_liquidity.html) | 18 December 2022|
+| [Protocol for Liquidity Auction](https://onetruekirk.github.io/liquidity_auction.html) | 15 December 2022|
+| [On Lending Without Oracles](https://onetruekirk.github.io/lending.html) | 12 December 2022 |
+| [Chrysopoeia](https://onetruekirk.github.io/chrysopoeia.html) | 9 December 2022 |
+| [Toward Better Collateral in DeFi](https://onetruekirk.github.io/collateral.html) | 14 November 2022 |
+| [In Which We Agree on Terminology](https://onetruekirk.github.io/definitions.html) | 5 November 2022 |
+| [On the Need for Token Equity](https://onetruekirk.github.io/chrysalis.html) | 28 October 2022 |
+| [Except by Consent of the Governed](https://onetruekirk.github.io/consent.html) | 24 October 2022 |
+| [Trade Balances](https://onetruekirk.github.io/trade.html) | |
+| [Money Creation, Rates, and Risk](https://onetruekirk.github.io/yield.html) | |
+| [Are stablecoins money?](https://onetruekirk.github.io/stablecoin.html) | |
+| [A Farewell to Arbitrum](https://onetruekirk.github.io/arbitrum.html) | |
+| [Semantics](https://onetruekirk.github.io/semantics.html) | |
+| [A Letter to MakerDAO](https://onetruekirk.github.io/lettertomaker.html) | |
+| [Notes on UNIchain](https://onetruekirk.github.io/unichain.html) | |
+| [The Future of DeFi Yields](https://onetruekirk.github.io/defidirection.html) | |
+| [Morpho Whitepaper Review](https://onetruekirk.github.io/morpho.html) | |
