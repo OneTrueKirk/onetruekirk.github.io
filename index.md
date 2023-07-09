@@ -24,6 +24,7 @@ This site is the home to my personal writing about any and all topics of interes
 
 | Article  | Date |
 | ------------- | ------------- |
+| [CRV: A Lending Risk Case Study](crv.md) | 8 July 2023 |
 | [Decentralizing Credit 203](https://onetruekirk.substack.com/p/decentralizing-credit-203) | 28 June 2023 |
 | [Decentralizing Credit 202](https://onetruekirk.substack.com/p/decentralizing-credit-202) | 19 May 2023 |
 | [Decentralizing Credit 201](https://onetruekirk.substack.com/p/decentralizing-credit-201) | 16 May 2023 |
