@@ -24,6 +24,7 @@ This site is the home to my personal writing about any and all topics of interes
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Assets, Liability, and Hedging](https://onetruekirk.github.io/alm.html) | 22 July 2023 |
 | [CRV: A Lending Risk Case Study](https://onetruekirk.github.io/crv.html) | 8 July 2023 |
 | [Decentralizing Credit 203](https://onetruekirk.substack.com/p/decentralizing-credit-203) | 28 June 2023 |
 | [Decentralizing Credit 202](https://onetruekirk.substack.com/p/decentralizing-credit-202) | 19 May 2023 |
