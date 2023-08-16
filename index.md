@@ -24,6 +24,7 @@ This site is the home to my personal writing about any and all topics of interes
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Automated Teller Machine Machine (sic)](https://onetruekirk.github.io/atm.html) | 15 August 2023 |
 | [Chrysopoeia 2: On Vain Pursuits](https://onetruekirk.github.io/chrysopoeia_2.html) | 25 July 2023 |
 | [Assets, Liability, and Hedging](https://onetruekirk.github.io/alm.html) | 22 July 2023 |
 | [CRV: A Lending Risk Case Study](https://onetruekirk.github.io/crv.html) | 8 July 2023 |
