@@ -24,6 +24,7 @@ This site is the home to my personal writing about any and all topics of interes
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Scale your Cake and have it Immutable, too](https://onetruekirk.github.io/bundle.html) | 16 August 2023 |
 | [Automated Teller Machine Machine (sic)](https://onetruekirk.github.io/atm.html) | 15 August 2023 |
 | [Chrysopoeia 2: On Vain Pursuits](https://onetruekirk.github.io/chrysopoeia_2.html) | 25 July 2023 |
 | [Assets, Liability, and Hedging](https://onetruekirk.github.io/alm.html) | 22 July 2023 |
@@ -41,7 +42,7 @@ This site is the home to my personal writing about any and all topics of interes
 | [So You've Made a Valueless Token -- Now What?]((https://onetruekirk.github.io/now_what.html)) | 1 January 2023 |
 | [Onchain Markets for Municipal Bonds](https://onetruekirk.github.io/munis.html) | 22 December 2022 |
 | [Liquidity Pricing for Stablecoins](https://onetruekirk.github.io/pricing_liquidity.html) | 18 December 2022|
-| [Protocol for Liquidity Auction](https://onetruekirk.github.io/liquidity_auction.html) | 15 December 2022|
+| [Protocol for Liquidity Auction](https://onetruekirk.github.io/liquidityauction.html) | 15 December 2022|
 | [On Lending Without Oracles](https://onetruekirk.github.io/lending.html) | 12 December 2022 |
 | [Chrysopoeia](https://onetruekirk.github.io/chrysopoeia.html) | 9 December 2022 |
 | [Toward Better Collateral in DeFi](https://onetruekirk.github.io/collateral.html) | 14 November 2022 |
