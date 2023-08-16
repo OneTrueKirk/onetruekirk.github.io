@@ -1,4 +1,4 @@
-# Scale your Cake and have it, too
+# Scale your Cake and have it Immutable, too
 Today's prominent rollups are bound by an unfortunate tension. Their purpose is to minimize trust assumptions beyond those present on the base layer, yet they seek compatibility with the Ethereum Virtual Machine, a moving target, so they must be upgradable.
 
 Many compromised on decentralization to go faster to market, restricting fraud proof submission to a whitelist or launching without them, as discussed recently by the [Twitterati](https://twitter.com/rauljordaneth/status/1691852822185136144?s=20). Note that permissionless fraud proofs for an upgradable system are a [hard problem](https://medium.com/infinitism/optimistic-time-travel-6680567f1864). See [L2Beat](https://l2beat.com/scaling/summary) for a good overview.
