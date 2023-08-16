@@ -15,8 +15,10 @@ A `CreditATM` has the following mechanisms accessible on L2:
 
 * track a share price based on deposits and reported yield
 * deposit an external asset, let's say USDC, and mint a deposit receipt `dUSDC` based on the current share price
-* burn `dUSDC` and receive USDC
+* burn `dUSDC` and receive USDC, but not atomically, as this would expose users to adverse selection in the event of bad debt originating on L1 that has not yet been marked down on L2. Instead, those wishing to access liquidity in either direction must trigger a "request for liquidity auction", similar to a liquidation except no one is being penalized. The duration is such that it exceeds any potentially in-progress auctions on L1 that a user would attempt to frontrun, but is modest compared to a rollup withdraw delay
 * send USDC to the mainnet `CreditATM` (only the mainnet `CreditATM` can call this function)
+* receive USDC from the mainnet `CreditATM` (same as above)
+* report yield or loss (same as above)
 
 If there is inadequate USDC in the ATM to support withdrawals, it's possible to sell `dUSDC` on a market. This leaves flexibility for users to manage their own liquidity needs. This means that the system defaults to a model similar to a conventional "wrapped CREDIT savings rate" in the worst case, but ideally provides direct withdraw liquidity on L2.
 
@@ -48,4 +50,4 @@ Previously, we considered the idea of "swaps terms", like a normal lending term 
 
 Unlike a Compound cToken that targets a specific percentage of idle liquidity to facilitate smooth withdrawals, the ATM simply provides an optimized venue for people to buy CREDIT and enter the savings rate, or vice versa. There is no explicit fee management intended to control utilization or reserves percentages. Naturally, we'd expect net borrower demand to be a random walk, sometimes being positive and sometimes negative. It's possible that a more active liquidity strategy (ie, buying or selling at specific distances from peg only) can perform better, but it can also perform worse. When compared to buying their CREDIT on an AMM and staking on their own, depositing in the ATM presents a simple "no-loss" (due to swap fees, at least) strategy for passive lenders and is easily deployed to any layer. A lender can then utilize signed messages and other automation tools to schedule a withdraw for as soon as liquidity becomes available, without needing to pay an AMM swap fee.
 
-A PSM or cToken have desirable liquidity properties from a certin perspective (mint 1:1 on demand), but are exposed to the risk of bank runs and bad debt. An ATM is based on external user deposits and conducts liquidity auctions to confirm any exchanges are at market price. Tldr; atomic composability is dead, long live asynchronous composability. Proper substack treatment of this mechanism coming after it has had some more thought.
+A PSM or cToken has desirable liquidity properties from a certin perspective (mint 1:1 on demand), but is exposed to the risk of bank runs and bad debt. An ATM is based on external user deposits and conducts liquidity auctions to confirm any exchanges are at market price. Tldr; atomic composability is dead, long live asynchronous composability.
