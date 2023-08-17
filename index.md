@@ -24,6 +24,7 @@ This site is the home to my personal writing about any and all topics of interes
 
 | Article  | Date |
 | ------------- | ------------- |
+| [Decentralized Autonomous Organizations and Risk Management](https://onetruekirk.github.io/dao.html) | 17 August 2023 |
 | [Scale your Cake and have it Immutable, too](https://onetruekirk.github.io/bundle.html) | 16 August 2023 |
 | [Automated Teller Machine Machine (sic)](https://onetruekirk.github.io/atm.html) | 15 August 2023 |
 | [Chrysopoeia 2: On Vain Pursuits](https://onetruekirk.github.io/chrysopoeia_2.html) | 25 July 2023 |
