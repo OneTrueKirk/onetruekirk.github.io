@@ -1,6 +1,6 @@
 # Uniswap Stochastics Review
 
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews here. You can comment below with your own thoughts. This article is reviewing the submission on [modeling Uniswap positions' prices using stochastic pricing analysis](https://github.com/jfarid27/uniswap-stochastics/blob/main/Uniswap-Stochastics.pdf) by [Jalil Farid](https://twitter.com/digital_monad).
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This article is reviewing the submission on [modeling Uniswap positions' prices using stochastic pricing analysis](https://github.com/jfarid27/uniswap-stochastics/blob/main/Uniswap-Stochastics.pdf) by [Jalil Farid](https://twitter.com/digital_monad).
 
 Lending and perpetuals markets have an interest in using LP positions as collateral, since it's been established that [option-like payoffs can be replicated using LP positions as debt](https://angeris.github.io/papers/rmms.pdf). As noted by Jalil, lenders do not yet have a deep handle on this. I'll warn the reader that I cannot claim to fully understand Ito's lemma or the other math in this submission, so I'll keep this review brief and look forward to the discussion.
 

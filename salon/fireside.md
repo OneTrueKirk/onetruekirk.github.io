@@ -1,6 +1,6 @@
 # Morpho Fireside Review
 
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews here. You can comment below with your own thoughts. This article is reviewing [the thoughts](https://variant.fund/articles/building-a-truly-scalable-lending-protocol-morpho-at-ethcc/) [Geoff Hamilton](https://twitter.com/gham1lt0n) submitted along with his interview of [Paul Frambot](https://twitter.com/PaulFrambot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) from Morpho. Regular readers will know I have reviewed Morpho previously and am fond of their team's thinking despite some differences in our approach.
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This article is reviewing [the thoughts](https://variant.fund/articles/building-a-truly-scalable-lending-protocol-morpho-at-ethcc/) [Geoff Hamilton](https://twitter.com/gham1lt0n) submitted along with his interview of [Paul Frambot](https://twitter.com/PaulFrambot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) from Morpho. Regular readers will know I have reviewed Morpho previously and am fond of their team's thinking despite some differences in our approach.
 
 ## Decentralized brokers vs protocols
 

@@ -1,6 +1,6 @@
 # Pharos Lending Market Review
 
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews here. You can comment below with your own thoughts. This article is reviewing the [Pharos lending market](https://docs.pharosprotocol.com), submitted by [mod323](https://twitter.com/itsmod323).
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This article is reviewing the [Pharos lending market](https://docs.pharosprotocol.com), submitted by [mod323](https://twitter.com/itsmod323).
 
 ## Overview
 

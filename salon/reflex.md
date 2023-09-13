@@ -1,6 +1,6 @@
 # Reflex Framework Review
 
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and software projects along with my reviews here. You can comment below with your own thoughts. This article is reviewing the [Reflex smart contract framework](https://github.com/Chromaxyz/reflex), submitted by [Jack Longarzo](https://twitter.com/JackLongarzo).
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and software projects along with my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This article is reviewing the [Reflex smart contract framework](https://github.com/Chromaxyz/reflex), submitted by [Jack Longarzo](https://twitter.com/JackLongarzo).
 
 ## Comments
 

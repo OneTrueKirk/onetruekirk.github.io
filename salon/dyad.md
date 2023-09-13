@@ -1,6 +1,6 @@
 # DYAD Stablecoin Review
 
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews here. You can comment below with your own thoughts. This article is reviewing the DYAD stablecoin, submitted by founder [Joey Roth](https://twitter.com/joeyroth). Link to original submission [here](https://www.notion.so/dyadstable/DYAD-SSOT-441278f1a75c4760bbd0cac5dc8505bb?pvs=4
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This article is reviewing the DYAD stablecoin, submitted by founder [Joey Roth](https://twitter.com/joeyroth). Link to original submission [here](https://www.notion.so/dyadstable/DYAD-SSOT-441278f1a75c4760bbd0cac5dc8505bb?pvs=4
 ).
 
 ```
