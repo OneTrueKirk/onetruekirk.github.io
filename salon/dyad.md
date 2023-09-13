@@ -1,14 +1,17 @@
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews here. You can comment below with your own thoughts. This article is reviewing the DYAD stablecoin, submitted by founder Joey Roth. Link to original submission here.
+# DYAD Stablecoin Review
+
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews here. You can comment below with your own thoughts. This article is reviewing the DYAD stablecoin, submitted by founder [Joey Roth](https://twitter.com/joeyroth). Link to original submission [here](https://www.notion.so/dyadstable/DYAD-SSOT-441278f1a75c4760bbd0cac5dc8505bb?pvs=4
+).
 
 ```
 Strategically composing a collateral basket and managing the DYAD debt drawn against this basket is the fundamental DYAD gameplay. 
 ```
 
-# Overview of DYAD Design
+## Overview of DYAD
 
 Holders of a membership NFT can deposit collateral tokens into vaults and mint a deposit receipt token, XP, which must be burned to withdraw their collateral. They can borrow DYAD against their collateral, and they can also stake their XP for up to four years to earn more XP. During the lock, they can still borrow or repay their loan, but not withdraw their collateral.
 
-## Design Goals
+## Stated Design Goals
 
 ```
 DYAD is the first modern stablecoin: backed by diverse uncorrelated collateral, with carry cost less than its $1 peg. This matters because stablecoins live and die by the laws of unit economics. 

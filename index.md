@@ -22,6 +22,18 @@
 I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast, garden appreciator, and most recently a father.
 This site is the home to my personal writing about any and all topics of interest. For articles specific to the now-deprecated [Volt Protocol v1](https://www.voltprotocol.io) or the in-development [Ethereum Credit Guild](https://github.com/volt-protocol/ethereum-credit-guild), [visit my Substack](https://onetruekirk.substack.com). You can also join us on [Discord](https://discord.com/invite/XK8VZyKU97).
 
+I'm hosting the inaugural Credit Salon in NYC on Wednesday, September 20. To attend, simply submit an original article or software project completed within the last six months relating to DeFi lending, stablecoins, real world assets, p2p payments, and so on, [at this link](https://docs.google.com/forms/d/e/1FAIpQLSeOA1-k3pHkDPvfsZ6GW_xIrgOSxpBeVjkVOMyt2imo4xlJzw/viewform?usp=sf_link).
+
+You can view and comment on the submissions below:
+
+* [DYAD Stablecoin](https://onetruekirk.github.io/salon/dyad.html)
+* [Morpho Fireside Chat]([https://one](https://onetruekirk.github.io/salon/morpho_fireside.html))
+* [Pharos Protocol](https://onetruekirk.github.io/salon/pharos.html)
+* [Reflex Framework](https://onetruekirk.github.io/salon/reflex.html)
+* [Uniswap Stochastics](https://onetruekirk.github.io/salon/stochastic.html)
+
+Those who make a submission and comment on at least one other submission will receive the invite details. We look forward to seeing you there.
+
 | Article  | Date |
 | ------------- | ------------- |
 | [Decentralized Autonomous Organizations and Risk Management](https://onetruekirk.github.io/dao.html) | 17 August 2023 |
