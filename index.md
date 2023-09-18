@@ -27,7 +27,7 @@ I'm hosting the inaugural Credit Salon in NYC on Wednesday, September 20. To att
 You can view and comment on the submissions below:
 
 * [DYAD Stablecoin](https://onetruekirk.github.io/salon/dyad.html)
-* [Morpho Fireside Chat]([https://one](https://onetruekirk.github.io/salon/fireside.html))
+* [Morpho Fireside Chat](https://onetruekirk.github.io/salon/fireside.html)
 * [Pharos Protocol](https://onetruekirk.github.io/salon/pharos.html)
 * [Reflex Framework](https://onetruekirk.github.io/salon/reflex.html)
 * [Uniswap Stochastics](https://onetruekirk.github.io/salon/stochastic.html)
