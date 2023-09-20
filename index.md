@@ -31,6 +31,7 @@ You can view and comment on the submissions below:
 * [Pharos Protocol](https://onetruekirk.github.io/salon/pharos.html)
 * [Reflex Framework](https://onetruekirk.github.io/salon/reflex.html)
 * [Uniswap Stochastics](https://onetruekirk.github.io/salon/stochastic.html)
+* [Stablecoin Trilemma](https://onetruekirk.github.io/salon/trilemma.html)
 
 Those who make a submission and comment on at least one other submission will receive the invite details. We look forward to seeing you there.
 
