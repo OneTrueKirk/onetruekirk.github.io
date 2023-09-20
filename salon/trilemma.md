@@ -1,6 +1,6 @@
 # "The Stablecoin Trilemma" Review
 
-This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This post is reviewing [an article on the "stablecoin trilemma"](https://fortunafi.beehiiv.com/p/the-stablecoin-trilemma) submitted by [Nick Garcia](https://twitter.com/thecurious_gark) of Fortunafi. Link to original submission [here](https://www.notion.so/dyadstable/DYAD-SSOT-441278f1a75c4760bbd0cac5dc8505bb?pvs=4).
+This is a peer review article as part of the first Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This post is reviewing [an article on the "stablecoin trilemma"](https://fortunafi.beehiiv.com/p/the-stablecoin-trilemma) submitted by [Nick Garcia](https://twitter.com/thecurious_gark) of Fortunafi.
 
 ## When life gives you lemmas
 
