@@ -19,12 +19,12 @@
 # Greetings, traveler
 ![img](whoosh.jpg)
 
-I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast, garden appreciator, and most recently a father.
+I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast, garden appreciator, and father.
 This site is the home to my personal writing about any and all topics of interest. For articles specific to the now-deprecated [Volt Protocol v1](https://www.voltprotocol.io) or the in-development [Ethereum Credit Guild](https://github.com/volt-protocol/ethereum-credit-guild), [visit my Substack](https://onetruekirk.substack.com). You can also join us on [Discord](https://discord.com/invite/XK8VZyKU97).
 
-I'm hosting the inaugural Credit Salon in NYC on Wednesday, September 20. To attend, simply submit an original article or software project completed within the last six months relating to DeFi lending, stablecoins, real world assets, p2p payments, and so on, [at this link](https://docs.google.com/forms/d/e/1FAIpQLSeOA1-k3pHkDPvfsZ6GW_xIrgOSxpBeVjkVOMyt2imo4xlJzw/viewform?usp=sf_link).
+If you are attending Ethereum Denver and have created any original research or technical work related to decentralized finance, even work in progress, please apply to the second Credit Salon [at this link](https://docs.google.com/forms/d/e/1FAIpQLSctL2boukOTMXeT4qp9W8JfO7VXVSH4MnRzaRQlS8u_xi8wuQ/viewform?usp=sf_link). Submissions will be posted here after the initial round of review. The Credit Salon is a small gathering where practitioners discuss topics of mutual interest and provide peer review. I am not partial to the big conference venues and crowds, but enjoy the chance to meet fellow enthusiasts in person.
 
-You can view and comment on the submissions below:
+You can view the submissions from Credit Salon 1 in September 2023 below:
 
 * [DYAD Stablecoin](https://onetruekirk.github.io/salon/dyad.html)
 * [Morpho Fireside Chat](https://onetruekirk.github.io/salon/fireside.html)
@@ -33,8 +33,6 @@ You can view and comment on the submissions below:
 * [Uniswap Stochastics](https://onetruekirk.github.io/salon/stochastic.html)
 * [Stablecoin Trilemma](https://onetruekirk.github.io/salon/trilemma.html)
 * [Lendless Market](https://onetruekirk.github.io/salon/lendless.html)
-
-Those who make a submission and comment on at least one other submission will receive the invite details. We look forward to seeing you there.
 
 | Article  | Date |
 | ------------- | ------------- |
