@@ -36,6 +36,7 @@ You can view the submissions from Credit Salon 1 in September 2023 below:
 
 | Article  | Date |
 | ------------- | ------------- |
+| [The Money Supply](https://onetruekirk.github.io/money_supply.html) | 23 January 2024 |
 | [Decentralized Autonomous Organizations and Risk Management](https://onetruekirk.github.io/dao.html) | 17 August 2023 |
 | [Scale your Cake and have it Immutable, too](https://onetruekirk.github.io/bundle.html) | 16 August 2023 |
 | [Automated Teller Machine Machine (sic)](https://onetruekirk.github.io/atm.html) | 15 August 2023 |
