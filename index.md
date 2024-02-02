@@ -32,6 +32,7 @@ You can view the submissions for Credit Salon 2 here (links are to are my review
 * [SmartLTV](https://onetruekirk.github.io/salon2/smartltv.html)
 * [How to Avoid DeFi Liquidity Squeeezes](https://onetruekirk.github.io/salon2/squeeze.html)
 * [pmnts](https://onetruekirk.github.io/salon2/william_payments.html)
+* [Money Supply](https://onetruekirk.github.io/money_supply.html)
 
 You can view the submissions from Credit Salon 1 in September 2023 below:
 
