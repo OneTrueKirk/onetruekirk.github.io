@@ -1,5 +1,5 @@
 # A Smart Contract Formula for LTV Ratio
-## Subnmitter: Yaron Velner
+## Submitter: Yaron Velner
 
 This is a peer review article as part of the second Credit Salon. See all the submitted articles and my reviews [here](https://onetruekirk.github.io/). You can comment below with your own thoughts. This article is reviewing SmartLTV, created by Risk DAO and submitted by [Yaron Velner](https://twitter.com/yaron_velner
 ). See the full submission [here](https://github.com/Risk-DAO/Reports/blob/main/a-smart-contract-ltv-formula.pdf).
