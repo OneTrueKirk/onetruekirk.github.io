@@ -19,7 +19,7 @@ Regardless of the proximal cause, given the extensive borrowing by the protocol 
 
 When the dust settled, only Llamalend took on bad debt, with other markets successfully liquidating large CRV debt positions. There remains some doubt about the solvency of certain cvxCRV collateral positions on Inverse Finance -- while not able to be liquidated based on the current market price, when slippage is taken into account the collateral cannot be sold atomically for enough to repay the debt, and since cvxCRV is not redeemable, the arbitrage demand is uncertain.
 
-Mr Egorov has promised to repay the outstanding bad debt. We're not quite content with "all's well that ends well" here -- let's consider the lessons of these events and what lending market designers and operators can do to ensure we don't see a repeat, or worse, in the future.
+Mr Egorov soon repaid the outstanding bad debt. As mentioned last time, while I am highly critical of his borrowing behavior, the goal of this article is not to condemn him, but to consider how to improve lending systems to prevent this kind of risk from arising in the future. Let's discuss a few lessons below.
 
 ## Taking notes
 
