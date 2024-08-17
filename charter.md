@@ -11,7 +11,7 @@ Many of my peers have likely heard of these efforts. The goal of this article is
 
 The [City of Industry](https://en.wikipedia.org/wiki/City_of_Industry,_California) is essentially an independent fiefdom located in Southern California, dominated by a small cartel of powerful families who operate it to their own financial advantage.
 
-It was founded with the explicit goal of providing a home for industry in Southern California while remaining free of democratic control. While the city has a mere 264 residents, is has over 60,000 daytime workers, and is a logistics and industrial hub for the Los Angeles Area. There have been reports of evictions of residents who opposed the City's dominant faction.
+It was founded with the explicit goal of providing a home for industry in Southern California while remaining free of democratic control. While the city has a mere 264 residents, it has over 60,000 daytime workers, and is a logistics and industrial hub for the Los Angeles Area. There have been reports of evictions of residents who opposed the City's dominant faction.
 
 Quoting from a paywalled [Los Angeles Times](https://www.latimes.com/local/politics/la-me-industry-election-20150603-story.html) article:
 
