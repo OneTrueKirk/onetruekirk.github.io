@@ -28,6 +28,7 @@ I semi-regularly host a meetup called the [Credit Salon](https://onetruekirk.git
 
 | Article  | Date |
 | ------------- | ------------- |
+| [wBTC is Dead, Long Live Wrapped Bitcoin](https://onetruekirk.github.io/wrapped.html) | 12 September 2024 |
 | [The City of Industry](https://onetruekirk.github.io/charter.html) | 16 August 2024 |
 | [CRV: A Lending Risk Case Study, Part 2](https://onetruekirk.github.io/crv2.html) | 14 June 2024 |
 | [The Money Supply](https://onetruekirk.github.io/money_supply.html) | 23 January 2024 |
