@@ -47,13 +47,15 @@ Coinbase is in a good position as an issuer because they must *already* have all
 
 ## tBTC -- Too Good to be True?
 
+>note: an earlier version incorrectly stated that even with only 10% of staked T, there would be a high likelihood of an attacker gaining full control of a wallet by themselves over time, the article has been edited to correct this
+
 What about "decentralized" alternatives like tBTC?
 
 First of all, tBTC currently has a permissioned set of minters and guardians who can veto mints, so it is best considered in the same category as cbBTC or wBTC.
 
 In terms of roadmap toward permissionlessness, much like oracles, the general problem with this class of applications is that the revenue they can extract is low compared to the TVL they secure, and thus there is a high risk of attack if they have open validator sets and grow to a large size.
 
-In the case of Threshold, tBTC has a total value locked of over $200 million, while the T token's fully diluted valuation is $237 million. If Threshold signers were selected randomly in a truly permissionless way, even if an attacker only held ~10% of the staked T, it would be only a matter of time before they were selected to form a committee all by themselves. Taking wBTC as an example, Threshold's revenues cannot be expected to be large enough to maintain economic security.
+In the case of Threshold, tBTC has a total value locked of over $200 million, while the T token's fully diluted valuation is $237 million. Of this, about $69 million is currently staked. If Threshold signers were selected randomly in a truly permissionless way, an attacker with a large share of the stake would eventually be able to steal user funds. Due to the method of signer selection, the amount of stake needed would be high, but less than a full 51% "majority attack" for a patient attacker. An attacker with 42% of the stake would have about a 4% chance of gaining unilateral control of each newly created wallet, while with 45% of the stake, their odds would be ~13%. Taking wBTC as an example, Threshold's revenues cannot be expected to be large enough to maintain economic security indefinitely without the presence of a trusted guardian who can veto, but not initiate, BTC transfers or tBTC mints, as exists in the system today.
 
 I've had some discussions about whether restaking can be productively applied to a Bitcoin bridge. For now I am skeptical. The margins, as noted above, are quite small to induce users to put their capital at risk, and it's not clear that there is any trustless way to enforce slashing conditions.
 
