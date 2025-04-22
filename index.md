@@ -22,9 +22,9 @@
 I'm [@OneTrueKirk](https://twitter.com/OneTrueKirk), decentralized finance enthusiast, garden appreciator, and father.
 This site is the home to my personal writing about any and all topics of interest.
 
-Along with my colleagues [Erwan](https://twitter.com/eswak) and Emilien, I created the [Credit Guild](https://www.creditguild.org), the first oracle free lending pool, currently live on Arbitrum and anticipated to deploy on other high quality layer two networks like Base and Optimism in the future.
+I'm the governance and multichain growth lead at [Morpho](https://morpho.org).
 
-I semi-regularly host a meetup called the [Credit Salon](https://onetruekirk.github.io/salonlinks.html) where builders and researchers submit original works and meet to discuss topics related to decentralized finance.
+I occasionally host a meetup called the [Credit Salon](https://onetruekirk.github.io/salonlinks.html) where builders and researchers submit original works and meet to discuss topics related to decentralized finance.
 
 | Article  | Date |
 | ------------- | ------------- |
